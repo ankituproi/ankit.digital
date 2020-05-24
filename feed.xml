@@ -3,75 +3,31 @@
     <title>Ankit.Digital</title>
     <link href="https://ankit.digital/feed.xml" rel="self" />
     <link href="https://ankit.digital" />
-    <updated>2020-05-24T21:22:32+05:30</updated>
+    <updated>2020-05-25T00:43:59+05:30</updated>
     <author>
         <name>Ankit Sharma</name>
     </author>
     <id>https://ankit.digital</id>
 
     <entry>
-        <title>Covid 19 Live Tracker France</title>
-        <author>
-            <name>Ankit Sharma</name>
-        </author>
-        <link href="https://ankit.digital/covid-19-live-tracker-france.html"/>
-        <id>https://ankit.digital/covid-19-live-tracker-france.html</id>
-
-        <updated>2020-05-24T18:57:53+05:30</updated>
-            <summary>
-                <![CDATA[
-                    [covid19-country-updates country=FR country_list=0 layout=3 label="France Covid19 Data" colors="#d80027,#0052b4"] &nbsp; [covid19-country-updates country=France country_list=0&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>[covid19-country-updates country=FR country_list=0 layout=3 label="France Covid19 Data" colors="#d80027,#0052b4"]</p>
-<p>&nbsp;</p>
-<p>[covid19-country-updates country=France country_list=0 layout=3 label="France Covid19 Data" colors="#d80027,#0052b4"]</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Covid 19 Tracker</title>
-        <author>
-            <name>Ankit Sharma</name>
-        </author>
-        <link href="https://ankit.digital/covid-19-tracker.html"/>
-        <id>https://ankit.digital/covid-19-tracker.html</id>
-
-        <updated>2020-05-24T18:57:53+05:30</updated>
-            <summary>
-                <![CDATA[
-                    [ce_corona] &nbsp;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>[ce_corona]</p>
-<p>&nbsp;</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Best email marketing alternatives to Mailchimp</title>
         <author>
             <name>Ankit Sharma</name>
         </author>
-        <link href="https://ankit.digital/best-email-marketing-alternatives-to-mailchimp.html"/>
-        <id>https://ankit.digital/best-email-marketing-alternatives-to-mailchimp.html</id>
-            <category term="Quick Notes"/>
+        <link href="https://ankit.digital/best-mailchimp-alternatives.html"/>
+        <id>https://ankit.digital/best-mailchimp-alternatives.html</id>
             <category term="Email Marketing"/>
 
-        <updated>2020-05-24T18:57:53+05:30</updated>
+        <updated>2020-05-24T23:18:02+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://ankit.digital/media/posts/25/bestmailchimpalternatives-1.png" alt="Best Mailchimp Alternatives" />
                     To be honest, Mailchimp is one of the versatile email marketing platforms.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://ankit.digital/media/posts/25/bestmailchimpalternatives-1.png" alt="Best Mailchimp Alternatives" />
                 <p>To be honest, Mailchimp is one of the versatile email marketing platforms. But different people like to use different platforms for different use-cases. I am listing the best email marketing alternatives to Mailchimp.</p>
 <ol>
 <li><a href="https://ankit.digital/recommends/sendy">Sendy</a> - I have been using Sendy for around 2016. This is perfect if you already have a pre verified and double opt-in email list. I recommend you using this specially for sending newsletters. Sendy is a standalone app which can work with almost any smtp servers. Most recommend way of using sendy is to integrate it with <a href="https://www.editsoftdigital.com/amazon-ses-review/">Amazon SES</a>. It just costs $0.0001 per email sent. I see 90% inbox rate with detailed analytics of how my subscribers are performing.</li>
@@ -80,151 +36,6 @@
 <li><a href="http://sendgrid.com">Sendgrid</a> - I have used Sendgrid for one of my client. And it worked like a charm. They have 90% + inbox rate.</li>
 </ol>
 <p>I hope this list helps you decide which Mailchimp alternative you would like to go with. If you know more such email marketing platform that are good alternatives of Mailchimp and aren't listed here in this post, do let me know in comments.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>5 Landing Page Builders</title>
-        <author>
-            <name>Ankit Sharma</name>
-        </author>
-        <link href="https://ankit.digital/5-landing-page-builders.html"/>
-        <id>https://ankit.digital/5-landing-page-builders.html</id>
-            <category term="Uncategorized"/>
-
-        <updated>2020-05-24T18:57:52+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Landing Pages - You can call it the lifeline to convert your&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Landing Pages - You can call it the lifeline to convert your target leads to potential customers. It's the key to Conversion.</p>
-<p>A Digital Marketing Campaign is lifeless and unplanned without a Landing Page. Marketing is all about converting those targeted leads to lifelong potential customers. Without Landing page, your visitors might get confused about what to do next. Where to take the step? Where to see the details of what made them click on your ad?</p>
-<p>Honestly, generic homepages can never serve your purpose of lead conversion. It needs a particular page that pinpoints all the specific consumer needs. That's how they will convert.</p>
-<p>Unfortunately, a landing page doesn't build up on its own.</p>
-<p>But, you don't need to run after the coders to design it from scratch.</p>
-<p>Trust me, its pain.</p>
-<p>So what to do?</p>
-<p>The good thing is there are plenty of tools out there to make the whole process of creation &amp; management more comfortable for you, and you can create them in a fraction of time. A single landing page might not serve your purpose, for a successful campaign, you need to experiment with multiple designs and lead form placement within the landing page. So managing and optimizing your set of landing pages for better performance, it's pretty well become your full-time job until you have a single dashboard that helps you to optimize and manage effectively.</p>
-<p>Landing page builders can save your precious time &amp; money as well.</p>
-<p>{But before moving forward with the landing page builders, let's understand the difference between a landing page and a home page and why they are so important.</p>
-<p>What is a Landing Page?}</p>
-<p>As per updates in 2019, the market is full of excellent landing page builders. Here I am listing some for you which are catching the heart of all. Though each of these has its strengths and weakness, I will mention them all for you so that you can pick up the ultimate one to fulfill your business needs. Also, you can do better do A/B testing with the trial versions before picking the one.</p>
-<h3>1. Elementor</h3>
-<p>Starting with the best one which I have frequently been using.</p>
-<p>Elementor is a WordPress plugin with the drag &amp; drop feature. It provides you a wholly original and separate interface for creating posts, custom post types pages. So when you open a standard format of creating posts or pages, you get a new button that allows you to enable the elementor, and then its a completely different and straightforward page editing process.</p>
-<p>The best thing it can be done through a handy user interface, and you don't need to have any prior knowledge or skills about HTML or PHP. As it works on the frontend, it will show you the outcome right away so that you can visualize where it is going to stand. You can create any layout for your page regardless of what your current WordPress theme allows you to do. Also, it can quickly gel up with all the WordPress themes.</p>
-<p>You can create impressive content structure and page layouts, even if you are not a designer or doesn't have site building coding skills. As per the latest report by elementor, they claim that their plugin has been downloaded for more than a million times.</p>
-<p>If you are not willing to create a page from scratch, you can pick one from their pool of ready to use templates and tweak them a little to get your desired output.</p>
-<h4>Pricing</h4>
-<p>It's free. Hahahaha.</p>
-<p>No, let's keep it real. Elementor offers an unlimited premium package, but honestly, you might not need it that much.  The main plugin is available in the official WordPress repository. <a href="https://wordpress.org/plugins/elementor/">Here</a> is the link. You can install the plugin and get started immediately. There are no hidden costs.</p>
-<p>Now talking about the pro-edition, there are some extremely cool features for the power users, and you can customize your CSS, work on your form straight from elementor, add slides, integrate woo-commerce, more content, more template blocks, etc. But it is not something which everyone needs so pick for yourself wisely.</p>
-<p>The current pricing chart of Elementor,</p>
-<p><img class="wp-image-2567 aligncenter" src="https://ankit.digital/media/posts/16/Screen-Shot-2019-09-29-at-8.34.59-AM.png" alt="elementor-pricing" width="800" height="600" /></p>
-<h4>Pros &amp; Cons of Elementor</h4>
-<ol>
-<li> It have impressive features and is easy to use</li>
-<li>It allows you to build custom pages</li>
-</ol>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Best Webhosting for Mautic CRM</title>
-        <author>
-            <name>Ankit Sharma</name>
-        </author>
-        <link href="https://ankit.digital/best-webhosting-for-mautic-crm.html"/>
-        <id>https://ankit.digital/best-webhosting-for-mautic-crm.html</id>
-
-        <updated>2020-05-24T18:57:53+05:30</updated>
-            <summary>
-                <![CDATA[
-                    Top Web Hosting for self hosted Mautic installation | Best 5 Web&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1><strong>Top Web Hosting for self hosted Mautic installation | Best 5 Web hosts</strong></h1>
-<p><strong><span style="color: rgb(153, 153, 153);">By Ankit Sharma</span></strong>, September<span style="color: rgb(153, 153, 153);">&nbsp;4, 2019 11:00 AM</span></p>
-<p>Welcome to my comparison and review for the Top Web Hosting for Mautic. Well that you are here, I can tell you that you love the capability and the power of Mautic but you are not able to make optimum use of it due to either the lack of technical assistance and setup or due to the incompatibility of the Web hosting platform. <strong>I have been personally using Mautic for me and my clients for about 3 years</strong> now and have handled all the nitty gritty things about it. Web hosting is just one of them. I have listed my favourite web hosting solutions for hosting Mautic installation. These are the factors I used to review my best choices for Mautic hosting :</p>
-<ul>
-<li><strong><u>Loading Speed</u></strong> - Mautic is a heavy system and requires a fast optimised server to host it so as to avail good loading speed.</li>
-<li><strong><u>Cron Jobs</u>&nbsp;</strong>- Not all web hosting will allow you to run the cron jobs the way you want them to run. Running cron jobs directly consume the server bandwidth and many web hostings (Specially shared one's doesn't allow them on complete autonomy )</li>
-<li><strong><u>Support</u></strong> - As Every hosting environment is comprised of different technology and infrastructure. This might case few functionalities of Mautic not work for you. In such a scenario, hosting support must help you and resolve your issue.</li>
-</ul>
-<h2><a href="https://ankit.digital/recommends/kualo" target="_blank" rel="nofollow noopener noreferrer"><span style="color: rgb(51, 51, 51);">Kualo Hosting</span></a></h2>
-<p><span style="color: rgb(53, 52, 52);">Kualo is my favourite choice considering the quality of Support they provide and the Robust service they have. Best thing about Kualo is their <strong>60 Days money back guarantee.&nbsp;</strong>This comes only because they are confident about their service.&nbsp;</span></p>
-<p><span style="color: rgb(53, 52, 52);">They will help with free migration of your mautic installation to their server.&nbsp;</span></p>
-<p><span><a href="https://ankit.digital/recommends/kualo" target="_blank" rel="nofollow noopener noreferrer"><img alt="" width="533" height="529" title="imgppp1"  src="https://ankit.digital/media/posts/18/imgppp1.png"></a></span><br />
-<h3>The Good Stuff:</h3>
-<ul>
-<li><span style="font-family: Roboto; font-weight: 300; font-size: 17px;"><strong><u>Full Account Isolation </u></strong>:&nbsp;</span>Accounts are isolated with a caged file system that prevents privelege escalation and information disclosure attacks.<span style="font-family: Roboto; font-weight: 300; font-size: 17px;"></span></li>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;"><strong><u>No Noisy Neighbours</u></strong> :&nbsp;Each customer is allocated it's own resource pool, meaning other users can't cause downtime or slow performance for your website.</span></span></span></li>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;">​<strong><u>Machine Learning Firewall </u></strong>: Multiple firewall layers featuring machine learning and collective intelligence keeps bots and hackers at bay.</span></span></span></li>
-<li><span style="font-family: Roboto; font-weight: 300; font-size: 17px;"><strong><u>Malware Defense </u></strong>: We automatically patch vulnerabilities in a wide range of web applications and quarantine known malware, keeping your site and visitors safe.</span></li>
-</ul>
-<h3>The Bad Stuff:</h3>
-<ul>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;">To be frank, I could not find any drawbacks about Kualo. And I have always find their services and support staff as awesome as always. So I don't have any point to mention here.</span></span></span></li>
-</ul>
-<p><span style="color: rgb(53, 52, 52);">5/5 Stars</span></p>
-<h2><span style="color: rgb(51, 51, 51);">A2 Hosting</span></h2>
-<p><span style="color: rgb(53, 52, 52);">Security, affordability and support is what I love A2 hosting for. I have used it not just to host my Mautic installations, but my other web projects as well. They claim to have 20X fast servers when compared with others in the industry. They offer <strong>any time money back guarantee.</strong></span></p>
-<p><span style="color: rgb(53, 52, 52);"><strong>​</strong></span></p>
-<p><span><img alt="" width="533" height="529" title="imgppp 2"  src="https://ankit.digital/media/posts/18/imgppp-2.png"></span><br />
-<h3>The Good Stuff:</h3>
-<ul>
-<li><span style="font-family: Roboto; font-weight: 300; font-size: 17px;"><strong><u>20X Fast Servers</u></strong> : Their exclusive Turbo Server option offers you the fastest hosting experience!</span></li>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;"><strong><u>Guru Crew Support </u></strong>: Their friendly and knowledgeable support team is available 24/7/365 to help!.</span></span></span></li>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;"><strong><u>Perpetual Security</u></strong> : An average of 30,000 sites are hacked each day globally. Their Perpetual Security measures <strong>help prevent you from becoming the next victim</strong>! That's why your account include&nbsp;<strong>free HackScan Protection</strong> to help block hacks before they can do damage to your site. </span></span></span></li>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;">A mere 1-second page load delay impacts your bounce rate, SEO rankings and even your conversion rate. You won't have to worry about any of this when you choose A2 Hosting and our&nbsp;<strong>screaming fast SwiftServer platform</strong>!</span></span></span></li>
-</ul>
-<h3>The Bad Stuff:</h3>
-<ul>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;">Their basic package is fine, but when you upgrade, it appears to be little costly in comparison to other web hosts.</span></span></span></li>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;"></span></span></span><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;"></span></span></span>Although their support is friendly and cooperative but sometimes they charge for minute stuffs which other hosts can do free for you.</li>
-</ul>
-<p><span style="color: rgb(53, 52, 52);">4/5 Stars</span></p>
-<h2><span style="color: rgb(51, 51, 51);"></span>SiteGround Hosting</h2>
-<p>SiteGround is one of the most secured shared hosting provider. They are known for their super experienced and technically skilled support staff. I have been using them for my valuable and high end clients's project. You can trust them when it comes to speed and security.&nbsp;</p></p>
-<p><span><img alt="" width="533" height="529" title="imgppp 2 copy"  src="https://ankit.digital/media/posts/18/imgppp-2-copy.png"></span><br />
-<h3>The Good Stuff:</h3>
-<ul>
-<li><span style="font-family: Roboto; font-weight: 300; font-size: 17px;"><strong><u>Technical Superiority </u></strong>: Developing smart in-house software solutions and adopting innovative new technology that make their clients’ sites faster.&nbsp;</span></li>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;"><strong><u>Wordpress Trusted </u></strong>: They are featured as the</span></span></span> hosting provider recommended by WordPress.org - the most popular, community-driven site building software worldwide. Even though it has nothing to do with Mautic, but getting recognition from an open source community means a lot.&nbsp;</li>
-<li><strong><u>Security first Mindset </u></strong>:Their dedicated security experts proactively write custom patches and rules to our WAF that stop multiple identified-yet-unresolved third-party software vulnerabilities.</li>
-</ul>
-<h3>The Bad Stuff:</h3>
-<ul>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;">Their shared hosting is one of the costly service in the industry. Though it comes with higher security in hand but are priced higher when compared to other good quality hosts. Their upgrades and higher end servers are even expensive.&nbsp;</span></span></span><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;">​</span></span></span></li>
-<li><span style="font-size: 17px;"><span style="font-weight: 300;"><span style="font-family: Roboto;">They might charge you extra which other hosts can do for free. Example - Migration of your websites from other hosts to their hosting.&nbsp;</span></span></span></li>
-</ul>
-<p><span style="color: rgb(53, 52, 52);">3.5/5 Stars</span></p>
-<h3>And the winner is...</h3>
-<p>To be frank, there are really lesser number of Web hosting solutions that offer Mautic operating compatibility. Almost every web host provides <strong>Softaculous</strong> these days and that contains Mautic One Click installation service. But this doesn't necessarily mean that those Web hostings will let you operate Mautic installation in peace. Mautic in itself is a heavy tech infra demanding software which needs high quality server requirements that does not only host your Mautic installation with fast servers but also let you run all the important cron jobs.&nbsp;</p></p>
-<p>I find <strong>Kualo</strong> as one of the highest reliable, cost friendly and support backed solution as a Mautic host. It has solved all the shortcomings mentioned above for me and I believe it should do the same for you.</p>
-<p style="text-align: center;"><em><span style="color: rgb(255, 255, 255);"><strong>WINNER</strong></span></em></p>
-<p><span style="width: 100%;"><img alt="" width="1200" height="627" title="company-rating"  src="https://ankit.digital/media/posts/18/company-rating.png" style="width: 100%;"></span>
-<p>You can easily take their services hassle free. They offer 60 days money back guarantee which in itself is a sign of confidence. You can ask for refund anytime in 6o days if you aren't satisfied for whatsoever reason.&nbsp;</p>
-<p style="text-align: center;"><strong><span style="color: rgb(0, 0, 0);">NOTE : I have reviewed here only 3 Web hosts as I find them reliable after using them. All the other hosts not mentioned here are either crapy or doesn't provide good services. All these 3 have their own pros and cons and I do not mean to demean any of them. You can choose any of these web host at your discretion.</span></strong></p>
-<p style="text-align: center;">© 2019, Ankit.Digital . All rights Reserved | <a href="https://ankit.digital/privacy-policy/"><span style="color: rgb(250, 37, 20);"><u>Privacy Policy</u></span></a> | <a href="https://ankit.digital/disclaimer/"><span style="color: rgb(250, 37, 20);"><u>Disclaimer</u></span></a></p>
-
             ]]>
         </content>
     </entry>
@@ -236,7 +47,7 @@
         <link href="https://ankit.digital/disclaimer.html"/>
         <id>https://ankit.digital/disclaimer.html</id>
 
-        <updated>2020-05-24T18:57:53+05:30</updated>
+        <updated>2020-05-24T23:41:22+05:30</updated>
             <summary>
                 <![CDATA[
                     Disclaimer for https://ankit.digital If you are using this website, you agree to&hellip;
@@ -246,9 +57,8 @@
             <![CDATA[
                 <p>Disclaimer for https://ankit.digital</p>
 <p>If you are using this website, you agree to the terms and conditions of using this website. This disclaimer is for educational purposes for all of our visitors. We review products and services in the website. We post educational information in this website. At times use some brands logos and their brand names for the educational and promotional purposes, in all such cases, the copy rights and trademarks belong to the actual product or service owners and not to this website. Some reviews published on this website may include external links to the products. If you happen to purchase with those links, it may lead to an affiliate commission to us. At all times, we recommends users to use this website and buy products from internet at their sole discretion only.</p>
-<p>If you would want to get in touch with us, shoot an email at ankit[@]editsoftdigital[dot]in</p>
+<p>If you would want to get in touch with us, shoot an email at ankit[@]uproi[dot]in</p>
 <p>Thanks.</p>
-
             ]]>
         </content>
     </entry>
@@ -260,7 +70,7 @@
         <link href="https://ankit.digital/privacy-policy.html"/>
         <id>https://ankit.digital/privacy-policy.html</id>
 
-        <updated>2020-05-24T18:57:53+05:30</updated>
+        <updated>2020-05-24T23:41:31+05:30</updated>
             <summary>
                 <![CDATA[
                     Your privacy is important to us. It is Editsoft Digital Pvt Ltd's&hellip;
@@ -276,45 +86,31 @@
 <p>You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.</p>
 <p>Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.</p>
 <p>This policy is effective as of 4 October 2019.</p>
-
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Let Facebook Chatbot handle your Sales and Marketing | Messenger Marketing Automation</title>
+        <title>How to promote Nutraceutical/ Pharmaceutical products with Digital Marketing</title>
         <author>
             <name>Ankit Sharma</name>
         </author>
-        <link href="https://ankit.digital/let-facebook-chatbot-handle-your-sales-and-marketing-or-messenger-marketing-automation.html"/>
-        <id>https://ankit.digital/let-facebook-chatbot-handle-your-sales-and-marketing-or-messenger-marketing-automation.html</id>
-
-        <updated>2020-05-24T18:57:52+05:30</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How to promote Nutraceutical products with Digital Marketing</title>
-        <author>
-            <name>Ankit Sharma</name>
-        </author>
-        <link href="https://ankit.digital/how-to-promote-nutraceutical-products-with-digital-marketing.html"/>
-        <id>https://ankit.digital/how-to-promote-nutraceutical-products-with-digital-marketing.html</id>
+        <link href="https://ankit.digital/digital-marketing-for-nutraceutical-products.html"/>
+        <id>https://ankit.digital/digital-marketing-for-nutraceutical-products.html</id>
             <category term="Strategy"/>
-            <category term="Digital Marketing"/>
 
-        <updated>2020-05-24T18:57:53+05:30</updated>
+        <updated>2020-05-24T23:38:42+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://ankit.digital/media/posts/24/ankit.digital.jpg" alt="" />
+                        <img src="https://ankit.digital/media/posts/24/Digital-marketing-for-Nutraceutical-products.png" alt="Digital Marketing for Nutraceutical products" />
                     There are various uncovered aspects of selling nutra products online. And I&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ankit.digital/media/posts/24/ankit.digital.jpg" alt="" />
+                    <img src="https://ankit.digital/media/posts/24/Digital-marketing-for-Nutraceutical-products.png" alt="Digital Marketing for Nutraceutical products" />
                 <p>There are various uncovered aspects of selling nutra products online. And I will uncover them all in this blog post. When it comes to promoting nutra products it is important to choose your promotion methods accurately and these methods are valid even if you are a seller or if you are the manufacturer. This blog post will also cover digital marketing for nutracuitical products and company.</p>
 <p>I would be very precise and calculative in explaining my process based approach. Sales in ecom industry is a function of good process. So we have to implement all the digital marketing strategies in order to complement good process that can ultimately build unlimited sales funnel. Let's begin step by step.</p>
-<h2>Digital Strategy to Sell Nutraceutical products with digital marketing</h2>
+<h2 id="mcetoc_1e93sqbvd0">Digital Strategy to Sell Nutraceutical products with digital marketing</h2>
 <ol>
 <li>Building an online E Com Store is very important if you want to have good sales without being dependent on third party platforms like Amazon, Flipkart and others. We recommend building this store using Shopify due to the responsive features of shopify and having it's adaptability in scaling the store as much as we wish to. <strong>We are shopify partners in India and so we can also help in store building part</strong>, if not developed already.</li>
 <li>Influencers Outreach. To have better marketing of our products via social media and other mediums, we need to reach out to influencers and experts in the industry and collaborate with them to promote our products. These influencers can be - <strong>Health Experts | Health Bloggers | Food Bloggers | Gym Trainers | Nutritionist | Fitness Freaks and many more</strong>.</li>
@@ -322,18 +118,17 @@
 <li><strong>Launch Giveaway : </strong>To increase the organic reach for our products, we can introduce weekly giveaway of our products. These giveaway's shall have certain rules that will directly impact the virality of our products. You can have a look at one of the good case study of Kingsumo. <a href="https://sumo.com/stories/viral-giveaways" target="_blank" rel="noopener noreferrer">https://sumo.com/stories/viral-giveaways</a> . We use Kingsumo to create viral giveaway's .</li>
 <li>Promote and Run ads around multiple lead magnets. There are various lead magnets including - Ebook | Health Guide | Checklist | How to PDF's and so on. Let me put an example here. Here's an E Book on "<strong>Nutrition as a part of Therapy in the treatment of Liver Disease</strong>" . Now this Ebook will have useful content for the patient that shall include our products. Also, we run ads around this lead magnet to promote it and then build our sustainable email list. Two benefits we got - We sent out our product promotion to the prospect in terms of e book and we also have the prospect's email address.</li>
 <li>These lead magnets can be promoted FB, Insta, Google, Native Ads, Pinterest, Youtube Videos. This promotion can be organic and paid.</li>
-<li><strong>Launch Drip campaigns around email lists</strong> build from lead magnets. For example. In the above case, lead magnet was the ebook for Liver patients. So we have prospects to whom we can always followup regarding our products related to Liver. Or we can ask them to schedule a free appointment with our Nutritionist for better understanding on improving liver problems. Such drip campaigns focuses on sending series of emails on various parameters. These parameters can be Last email open or not, E Book downloaded or not, visited our landing page or not, Abandoned cart or not. Below  drip chart is an example of drip email series. We use our in-house built app called <strong><a href="http://sell3x.com">Sell3x</a></strong> to perform email marketing automation.  Here's an example of a drip email campaign. <img class="alignnone size-full wp-image-2549" src="https://ankit.digital/media/posts/24/WhatsApp-Image-2019-07-02-at-11.57.05-PM.jpeg" alt="" width="771" height="658" /></li>
+<li><strong>Launch Drip campaigns around email lists</strong> build from lead magnets. For example. In the above case, lead magnet was the ebook for Liver patients. So we have prospects to whom we can always followup regarding our products related to Liver. Or we can ask them to schedule a free appointment with our Nutritionist for better understanding on improving liver problems. Such drip campaigns focuses on sending series of emails on various parameters. These parameters can be Last email open or not, E Book downloaded or not, visited our landing page or not, Abandoned cart or not. Below  drip chart is an example of drip email series. We use our in-house built app called <strong><a href="http://sell3x.com">Sell3x</a></strong> to perform email marketing automation.  Here's an example of a drip email campaign. <img class="alignnone size-full wp-image-2549" src="https://ankit.digital/media/posts/24/WhatsApp-Image-2019-07-02-at-11.57.05-PM.jpeg" alt="" width="771" height="658"></li>
 <li>Let us say we have got 1000 email subscribers from our lead magnet - <strong>Nutrition as a part of Therapy in the treatment of Liver Disease. </strong>Now we send out email campaigns as a drip series. Each email shall contain a link back to our landing page or store. This will have two impact - <strong>Sales or No sales</strong> from our E Com Store. If it's a sale, very good. If it's not a sale, we will put all this audience who clicked on the link and visited on our landing page on Facebook and Google re-marketing ad funnel. This ad funnel shall show ads to audience claiming 25% flat off on their first purchase.</li>
-<li><span style="text-decoration: underline;"><strong>Email Marketing</strong> </span>- Email marketing needs to be done for various process.- Asking Gym Trainers, Celebrities, Influencers, Food Bloggers, Nutritionist and others to join our Affiliate program and our outreach program.- Reaching out our prospects through email lists.- Emailing existing customers to buy again.The entire strategy will not be focused on just one marketing channel. We will leave no DM channel unturned and employ all the strategies in parallel so as to have aggressive promotion and sales in the process.<strong>Concluding Notes</strong> -  Digital Sales is a function of a optimised digital marketing process. And we at Editsoft Digital are highly inclined towards building the same process.</li>
-<li><span style="text-decoration: underline;"><strong>Remarketing Campaigns</strong></span> - There's a saying in internet marketing that it takes 7 attempts for a visitor to convert into a customer. This means that you have to get into the eyes of a prospect atleast 7 times so that he could make a decision. Re-marketing comes in here. We do this with the help of Facebook and Google Ads. If some one has visited your website once, you can make him visit your landing page / website / lead magnet or anything related by re-marketing him.</li>
+<li><span style="text-decoration: underline;"><strong>Email Marketing</strong> </span>- Email marketing needs to be done for various process.- Asking Gym Trainers, Celebrities, Influencers, Food Bloggers, Nutritionist and others to join our Affiliate program and our outreach program.- Reaching out our prospects through email lists.- Emailing existing customers to buy again.The entire strategy will not be focused on just one marketing channel. We will leave no DM channel unturned and employ all the strategies in parallel so as to have aggressive promotion and sales in the process.</li>
+<li><strong>Remarketing Campaigns</strong> - There's a saying in internet marketing that it takes 7 attempts for a visitor to convert into a customer. This means that you have to get into the eyes of a prospect atleast 7 times so that he could make a decision. Re-marketing comes in here. We do this with the help of Facebook and Google Ads. If some one has visited your website once, you can make him visit your landing page / website / lead magnet or anything related by re-marketing him.
+<p> </p>
+</li>
 </ol>
-<p>&nbsp;</p>
-<p>While I was preparing these strategies, I prepared some notes and on the basis of those notes, I was able to describe the strategy above. Although, there are few things that might bring more clarity when you see those notes. Have a look below.</p>
-<p>[gallery ids="2551,2552,2553,2554"]</p>
-<p>&nbsp;</p>
+<h3 id="mcetoc_1e93stctv1"><strong>Concluding Notes</strong> -  </h3>
+<p>Digital Sales is a function of a optimised digital marketing process. And we at Editsoft Digital are highly inclined towards building the same process.</p>
 <p>Digital marketing is all about how creative you can be. And when it comes to be innovative about your approach, I am cent percent sure about how my team would execute the plan perfectly. So, in the end it matters about the execution only. There are a lot of places available over internet to find about new plans, ideas and promotional methods but the thing that owns the result is just the execution. Thus, my suggestion to have full focus on the implementation part and then take your project ahead.</p>
 <p>In any case, you feel like I becoming your digital partner or consultant in helping you take your business to a greater height, just let me know here - Contact Me</p>
-
             ]]>
         </content>
     </entry>
@@ -344,35 +139,33 @@
         </author>
         <link href="https://ankit.digital/long-tail-pro-review.html"/>
         <id>https://ankit.digital/long-tail-pro-review.html</id>
-            <category term="SEO"/>
             <category term="Reviews"/>
-            <category term="Internet Marketing"/>
 
-        <updated>2020-05-24T18:57:53+05:30</updated>
+        <updated>2020-05-24T23:40:57+05:30</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://ankit.digital/media/posts/23/Long-Tail-Pro-Review.png" alt="" />
+                        <img src="https://ankit.digital/media/posts/23/long-tail-pro-review.png" alt="Long Tail Pro Review" />
                     If you are searching for the best keyword research tool to grow&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://ankit.digital/media/posts/23/Long-Tail-Pro-Review.png" alt="" />
+                    <img src="https://ankit.digital/media/posts/23/long-tail-pro-review.png" alt="Long Tail Pro Review" />
                 <p>If you are searching for the best keyword research tool to grow your business online then I assume that you already know the basic of how to do keyword research and importance of doing keyword research. Searching for the best list of keywords which have low competition and high amount of searches isn't difficult if you have chosen the right tool to find the keywords.</p>
 <p>So today we will be investigating about this tool: Long Tail Pro keyword research tool. How effective is it to find the best suitable keyword for your niche? What's different in it? How effective is it to automate your keyword Research? We will also do the comparison between LongTail Pro and other specialized keyword research tool in terms of their features and functionality.</p>
 <p>But first, let me tell you more about me. And why I am making bold statements about Long Tail Pro Review.</p>
 <p>I am in the blogging field from 3 years now and have learned everything by experimenting on my blogs. I have used many keyword research tool in the first year of my blogging journey and became constant with Long Tail Pro from 2 years now and will continue to do so. Keyword Research is the beginning, if you are doing SEO of your article and targeting the right keyword can be a game changing for your blog. So keywords must be chosen wisely.</p>
-<h2>Long Tail Pro Review</h2>
+<h2 id="mcetoc_1e93tvmhj0">Long Tail Pro Review</h2>
 <p>Before going deep in the investigation of Long Tail Pro first we need to know what is Long Tail Pro</p>
-<h2>What is LongTail Pro?</h2>
+<h2 id="mcetoc_1e93tvmhj1">What is LongTail Pro?</h2>
 <p>Long Tail Pro is compelling keyword research tool which assists the user to choose a Longtail Keyword. It generates a list of thousands of possible long tail keywords within minutes from a single root keyword or multiple root keyword. It started as an adobe air based application and now it is available as a cloud-based application online.</p>
 <p>It fetches the data from google keyword tool to pull all the keyword data related to a specific set of keywords that user wishing to analyse. With a root keyword, you can generate a huge list of all the relevant keywords along with their monthly search volume, Cost Per Click, competition level with advertiser &amp; Long tail keywords. The metrics for long tail keywords is only available for platinum users.</p>
 <p>So Long Tail pro allows generating a huge list of all possible long tail keywords from a single root keyword or multiple seed keyword, quickly, effectively and efficiently. With this list of keywords, you can analyse the each on the basis of their search volume, CPC, competition level and select a small list of keywords that are good to include in your content or Pay Per Click Campaign.</p>
 <p><strong>Unique Feature:</strong> The keyword competition metric of Long Tail Pro is a unique and best feature which decide the difficulty level of the keyword.</p>
-<h3><strong>How keyword competition metric calculated? </strong></h3>
+<h3 id="mcetoc_1e93tvmhj2"><strong>How keyword competition metric calculated? </strong></h3>
 <p>So let's go in deep of how and on what basis it analyse the keywords. Long Tail Pro inspect the first 10 display searches of the root keyword and applying its calculations with the metrics like Page Link, Domain Authority, Page Rank, Site Age, Moz rank, Juicing Page, URL, and Title. After calculation, it displays the competitiveness of the keyword ranging from 0-100. The keyword at the first position is the easiest to rank while the one at the last is the highly competitive keyword.</p>
 <p><strong>Good competition score: </strong>If you have a new website, it's good to target keywords with competition score less than 25 and up to 40 for the already established site.</p>
-<h3>Is it the only tool with Keyword competition Metric?</h3>
+<h3 id="mcetoc_1e93tvmhj3">Is it the only tool with Keyword competition Metric?</h3>
 <p>So as I have mentioned earlier that the unique feature of Long tail Pro is Keyword Competition Metrics but Long tail pro is not the only keyword research tool who has it's own competition metrics. Moz had developed its own competition metrics which is named as "keyword difficulty". It's a percentage based metrics as it measures the competitiveness of the keyword in %, the higher the percentage - the more it is difficult to rank for.</p>
 <p>If we compare both the tools Moz and Long Tail pro on basis of keyword competition metrics, as per my experience I'd say Long Tail Pro is much more reliable as the comparison to Moz. However, we can't review the keyword research tool on the basis of competition metrics only. To give an objective review I will dig deeper into the usability of this tool.</p>
 <p>So Long tail pro can be categorised in 3 core categories:</p>
@@ -381,13 +174,13 @@
 <li>Rank Checker</li>
 <li>Competitor analysis</li>
 </ol>
-<h2>Long Tail Pro Keyword Research Feature:</h2>
+<h2 id="mcetoc_1e93tvmhj4">Long Tail Pro Keyword Research Feature:</h2>
 <p>As we have already discussed a glimpse of how this keyword research feature of Long tail pro works. You just need to add one or more seed keyword and click on generate results. It will showcase all the possible long tail keywords related to the seed keyword. But there is much more than this in Long tail Pro. They are other different advanced features that you can use, such as importing a list of seed keywords from an external source. Also, you can filter the results on basis of no. of words in a query, cost per click &amp; no. of searches.</p>
 <p>Once you have clicked the generate button, Long Tail Pro usually takes 1-3 minutes to load the result with the list of keywords. The result loading speed depends upon the type of the seed keyword you have entered and the scale of the result list. After the resulting load up, it displays a nicely laid out version of Google Keyword Planner. The difference between two is that you need a monthly subscription of Long tail Pro to calculate competitive metrics of each keyword.</p>
 <p>To conclude this feature of Long Tail Pro: a nicely laid sorted design with the ability to delete irrelevant keywords and add relevant keywords to your favourite tab, these feature a similar to that of google keyword planner. So here I don't see any huge advantage of spending $$$ on Long Tail pro monthly subscription.</p>
 <p>However, Long Tail pro offers a unique feature as 'keyword competitor' metric and this is the biggest advantage of using long tail pro but as it is not available for all the users of Long Tail Pro. I will rate this feature 5 out of 10.</p>
 <p><strong>Personal rating: 5/10 </strong></p>
-<h2>Long Tail Pro Competitor Analysis Feature:</h2>
+<h2 id="mcetoc_1e93tvmhj5">Long Tail Pro Competitor Analysis Feature:</h2>
 <p>Competitor analysis of long tail pro is for sure a better feature to count on. It allows you to analyse the first ten results on google with that individual keyword. LTP calculates the competitiveness of the keyword by analysing the results on the basis of  9 data points:</p>
 <ul>
 <li>PA ( Page Authority)</li>
@@ -405,40 +198,34 @@
 <p>For this tool to be of any significant the competitor analysis tool must have keyword competition metric. Without the keyword competition metrics, the competitor analysis metrics is not simply useful enough. Though its time saving but keyword competition metrics makes it much easier.</p>
 <p><strong>Personal Rating: 6/10</strong></p>
 <p>Now let's discuss the last feature of Long Tail Pro which is the Rank Checker. For the people who have the understanding of Search engine Optimisation (SEO) must be familiar with this term. Having a tool which can check the ranking's on the website with a targeted keyword and that too on daily basis is pivotal. Well, Long Tail will take care of this feature.</p>
-<h2>Long Tail Pro Rank Checker Feature:</h2>
+<h2 id="mcetoc_1e93tvmhj6">Long Tail Pro Rank Checker Feature:</h2>
 <p>If you guys are familiar with rank checking tools or used one before. You must be clear that there are several other rank checking tools available in the market. So what makes Long Tail pro special in this feature? The rank checking feature of long tail pro is inbuilt which makes it handy to use.</p>
 <p>You can simply add the keyword and the domain URL and set the country you wish to target. Click on check rank to see the results. Long Tail Pro will compile the results on the basis of your preferences and you will see the position number on google, yahoo and bing.</p>
 <p>So basically it's a very simple feature and is an important and useful one. So simple addition of this feature in long tail pro is a good offering. It obviously good to have one tool which provides you with the features of many other marketing tools.</p>
 <p><strong>Personal rating: 8/10 </strong></p>
 <p>So far we have discussed the 3 core categories or I should better say core features of Long tail Pro. I have mentioned all that I have examined with my experience and I hope my personal ratings to these features will be help for you to understand the Long Tail pro features. So what mostly we have discussed is the good part of Long Tail Pro. But I would like to share some of the issues I faced while using a Long tail pro to make the picture clear of how it is.</p>
-<h2>Long Tail Pro Issues:</h2>
+<h2 id="mcetoc_1e93tvmhj7">Long Tail Pro Issues:</h2>
 <p>Well! I might go blunt here sharing my experience. I have been using Long Tail pro from two years now and I haven't seen any update that actually had any changes to its functionality or interface. Also, the biggest problem I experience is it's the inability to consistently bring back the data. And this happens to me frequently and I haven't found any solution to this problem.</p>
 <p>Though I had a back to back email conversation with the long tail pro team but still I face the similar issue. When I create a new campaign and try to use the pre-establishes dataset with the new seed keyword, the keyword analysis feature pop up with a load box but nothing happens, it just keeps on loading.</p>
 <p>This is the biggest problem I face in using Long Tail Pro and to be very honest, this is really frustrating for me sometimes. To be honest, there is no other problem there in using Long Tail pro. Though there are some features which can be added to Long Tail pro but I won't be discussing them here.</p>
 <p>Well! there are many things in life which aren't perfect actually nobody and nothing is perfect. But for sure Long Tail Pro is the best tool for doing keyword research</p>
 <p>So far I have discussed the main features of Long tail pro and the issues I have experienced. Now I will discuss who is the intended user of Long Til pro and I will tell you if its a go for you or the bad in giving it a chance.</p>
-<h2>Who should purchase the Long Tail Pro?</h2>
+<h2 id="mcetoc_1e93tvmhj8">Who should purchase the Long Tail Pro?</h2>
 <p>If you have an established website and searching for the content keywords ideas to drive more traffic to your website then definitely you can give a try to long tail pro as it will provide you with the keywords to work on and rank the website on those keywords.</p>
 <p>If you don't have a website but still murmuring the idea and planning to create one. Why don't you try entering some seed keywords and see what it give you.</p>
 <p>If you are not sure where to start with, think about the topics that interest you and the things that you are passionate about, products and news you recently interacted with. Collect some seed keywords from them and click go. Might be you get the right idea to work on.</p>
 <p>In case you are an advertiser, Long tail pro can really be helpful for you to collect all the dataset of the keywords together so that you can put a bid on the right keywords.</p>
 <p>So basically if you are spending a significant amount for doing keyword research using Google Keyword Planner, or if you haven't started using one. I will suggest you go with Long Tail Pro.</p>
-<h2><strong>Pricing : </strong></h2>
+<h2 id="mcetoc_1e93tvmhj9"><strong>Pricing : </strong></h2>
 <p>Long Tail Pro offers plans for 3 categories:</p>
 <ol>
-<li>Starter Plan: In this, you can search for 10,000 keywords per month.<br />
-Monthly subscription is of $37 per month<br />
-Yearly subscription will cost cheaper as $25 per month</li>
-<li> Pro Plan:  With this, you can search for 25,000 keywords per month<br />
-Monthly subscription is of $67 per month<br />
-Yearly subscription will cost cheaper as $45 per month</li>
-<li> Agency Plan: With this, you can search up to 60,000 keywords per month<br />
-Monthly subscription is of $147 per month<br />
-Yearly subscription will cost cheaper as $98 per month</li>
+<li>Starter Plan: In this, you can search for 10,000 keywords per month.<br> Monthly subscription is of $37 per month<br> Yearly subscription will cost cheaper as $25 per month</li>
+<li> Pro Plan:  With this, you can search for 25,000 keywords per month<br> Monthly subscription is of $67 per month<br> Yearly subscription will cost cheaper as $45 per month</li>
+<li> Agency Plan: With this, you can search up to 60,000 keywords per month<br> Monthly subscription is of $147 per month<br> Yearly subscription will cost cheaper as $98 per month</li>
 </ol>
 <p>The trial version of all 3 plans costs only <strong>$1 for 7 days.</strong> I will suggest you opt for trial version first, as it is cheap and you can yourself judge how effective it is.</p>
 <p>After dicussing alot about Long Tail pro and its features, Here I am summing up all its pro's and con's to make you learn about it.</p>
-<h2>Pros and Con's of Long Tail Pro:</h2>
+<h2 id="mcetoc_1e93tvmhja">Pros and Con's of Long Tail Pro:</h2>
 <p>Long Tail Pro was rated as the best keyword research tool by the industry experts and is used by more than 1 Lac digital marketers all around the world. It's very effective in finding the low competitive keyword in the most competitive niches. Also providing a detailed report of SEO metrics to analyze and filter the keywords to use. But just like any other thing it also have its flaws. So let's have a look at the pro's and con's of using Long Tail Pro</p>
 <p><strong>Pro's </strong></p>
 <ul>
@@ -457,37 +244,333 @@ Yearly subscription will cost cheaper as $98 per month</li>
 <li>It cannot easily segment results for individual root keywords.</li>
 <li>There are few noticeable bugs in the cloud version in comparison to the desktop version.</li>
 </ul>
-<h2>Reviews by Industry experts:</h2>
+<h2 id="mcetoc_1e93tvmhjb">Reviews by Industry experts:</h2>
 <blockquote>
-<p style="text-align: center;">"I’m a fan of Long Tail Pro! It’s a powerful keyword research tool that I’ve used and am very impressed. I definitely recommend Long Tail Pro. It’s a must-have tool for any SEO or Internet Marketer."<br />
-Pat Flynn – SmartPassiveIncome.com</p>
+<p style="text-align: center;">"I’m a fan of Long Tail Pro! It’s a powerful keyword research tool that I’ve used and am very impressed. I definitely recommend Long Tail Pro. It’s a must-have tool for any SEO or Internet Marketer."<br> Pat Flynn – SmartPassiveIncome.com</p>
 </blockquote>
-<h2 style="text-align: left;">Alternatives to Long Tail Pro:</h2>
+<h2 id="mcetoc_1e93tvmhjc" style="text-align: left;">Alternatives to Long Tail Pro:</h2>
 <p>As I mentioned the prices earlier, the trial version of Long Tail Pro is cheap enough to give it a try and I think you should. In the trial period, your can test and judge the tool yourself.</p>
 <p>Moving forward towards the alternatives, there are several other keyword research tool in the market and almost each of them comes with a trial version. So you can give a try to them as there is no tool which does everything.</p>
 <ol>
-<li><strong>Moz </strong><br />
-Moz offers a 30 days trial version after filling the credit card. Though it reminds you few days before the tril completes.<br />
-Moz actually doesn't work as a keyword research tool but you can pair it up with Long Tail pro or Google Keyword planner to find the competitiveness of the keyword, analyzing the top results and the competition websites. And doing this you can finally track down rankings of targeted keywords.</li>
-<li><strong>SEM Rush<br />
-</strong>Sem rush offers a 14days trial. The pro version is of $69.5 per month and then there is a guru and business plan which are very costly.<br />
-Its a great tool for keyword analysis and competitor analysis but similar to Moz it doesn't provide the list of additional keywords related to your seed keyword.</li>
-<li><strong>Authority metrics<br />
-</strong>This one is new in the keyword research tool market and is very similar to Long Tail pro. Created by some guys from No hat digital Authority Metrics is definitely worth looking at. They offer 30 days money back guarantee, so you have plenty of time to review this keyword research tool.</li>
-<li><strong>Google Keyword Planner<br />
-</strong>Duuhh!! List can be completed without google keyword planner. It is alpha &amp; omega of keyword research tools. and its free to use But you must have an Adwords account to login in the Google keyword planner. It will show you results like the Average Monthly Searches, competition level of the keyword(Med, High, Low), and the cost per click (bid) on the targeted keyword. But there is a small problem. A recent change in keyword planner range the monthly searches in 7 volume sizes  0–10, 10–100, 100–1000, 1000–10000, 10000–100k, 100k–1MM and 1MM+. So we can see the huge swings in the min-max search volume and the accurate searches are available for only those who are high paying ad buyers.</li>
+<li><strong>Moz </strong><br> Moz offers a 30 days trial version after filling the credit card. Though it reminds you few days before the tril completes.<br> Moz actually doesn't work as a keyword research tool but you can pair it up with Long Tail pro or Google Keyword planner to find the competitiveness of the keyword, analyzing the top results and the competition websites. And doing this you can finally track down rankings of targeted keywords.</li>
+<li><strong>SEM Rush<br> </strong>Sem rush offers a 14days trial. The pro version is of $69.5 per month and then there is a guru and business plan which are very costly.<br> Its a great tool for keyword analysis and competitor analysis but similar to Moz it doesn't provide the list of additional keywords related to your seed keyword.</li>
+<li><strong>Authority metrics<br> </strong>This one is new in the keyword research tool market and is very similar to Long Tail pro. Created by some guys from No hat digital Authority Metrics is definitely worth looking at. They offer 30 days money back guarantee, so you have plenty of time to review this keyword research tool.</li>
+<li><strong>Google Keyword Planner<br> </strong>Duuhh!! List can be completed without google keyword planner. It is alpha &amp; omega of keyword research tools. and its free to use But you must have an Adwords account to login in the Google keyword planner. It will show you results like the Average Monthly Searches, competition level of the keyword(Med, High, Low), and the cost per click (bid) on the targeted keyword. But there is a small problem. A recent change in keyword planner range the monthly searches in 7 volume sizes  0–10, 10–100, 100–1000, 1000–10000, 10000–100k, 100k–1MM and 1MM+. So we can see the huge swings in the min-max search volume and the accurate searches are available for only those who are high paying ad buyers.</li>
 </ol>
 <p>Though I am recommending the alternatives but I am not using any of them. Sound silly to me.</p>
 <p>Well I am using long Tail Pro, ahrefs, SEMRush and sometimes I also use Google Keyword Planner. Actually, I use them all together, combine their results to analyze the Search Engine Page Result to understand the overall market place.</p>
 <p>So I think it's time to wrap it up. I would conclude by saying that I really enjoy using Long tail pro and I am a big fan of its keyword competition metric. It had helped me to filter the thousands of useless keyword and still doing them same today. I think its the most affordable keyword research tool available in the markets with great features like keyword competition metrics, so I will recommend using Long tail pro.</p>
 <p>Though I will not recommend it purchasing without the Keyword competition metrics as I don't find it simply amazing without keyword competition metric and it wouldn't benefit you much.</p>
-<p>&nbsp;</p>
+<p> </p>
 <blockquote>
-<p style="text-align: center;">Keyword Research is the Blueprint of a succesful Search Engine Optimized Startegy.<br />
-Make your choices wisely.</p>
+<p style="text-align: center;">Keyword Research is the Blueprint of a succesful Search Engine Optimized Startegy.<br> Make your choices wisely.</p>
 </blockquote>
-<p>&nbsp;</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Ankit Sharma</name>
+        </author>
+        <link href="https://ankit.digital/about.html"/>
+        <id>https://ankit.digital/about.html</id>
 
+        <updated>2020-05-25T00:16:24+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Hello, I am Ankit Sharma. I am an entrepreneur focused majorly on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello,</p>
+<p>I am Ankit Sharma. I am an entrepreneur focused majorly on running businesses related to technology and marketing innovation. Ankit.Digital is just an attempt of mine where I try to put my thoughts about anything related to the domains I am working in. You can call it a blog that includes most of the things which I either solve for myself or for others. I usually record them in the blog posts so that my words can reach a larger audience and help them if they are also upto the same problem. </p>
+<p>I am a hardfan of digital marketing and love it at it's core. I keep on learning new things whenever I get the chance to. Being in the industry for more than a decade I also love to mentor people who either wish to make their career in Digital Marketing or are running their own startups and would want to apply digital marketing for the growth hack.</p>
+<p>I head 2 companies (Editsoft Digital and Uproi Digital) in the same domain where I have excellent minds working in together to do the required artwork. I call implementing digital marketing an art work, as I believe it is all about creative ideas to be executed differently at different situations. </p>
+<p>I am good at creating digital strategies for SME's to maximise ROI, Planning and execution of digital marketing campaigns, FB and Google Ads, Email Marketing Automation, SEO Audit, and implementing SEO(Offpage and Onpage) correctly. Please do not hesitate to connect me at ankit[@]uproi[in] if you wish to ask for any help related to my domain areas. </p>
+<p> </p>
+<p>Thanks.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Shopify vs WooCommerce: Which one should be preferred ?</title>
+        <author>
+            <name>Ankit Sharma</name>
+        </author>
+        <link href="https://ankit.digital/shopify-vs-woocommerce.html"/>
+        <id>https://ankit.digital/shopify-vs-woocommerce.html</id>
+            <category term="Reviews"/>
+            <category term="E Commerce"/>
+
+        <updated>2020-05-24T23:51:25+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ankit.digital/media/posts/6/Woocommerce-vs-Shopify-Banner.jpg" alt="Shopify vs WooCommerce" />
+                    WooCommerce vs Shopify- To put it in simple words these two are&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ankit.digital/media/posts/6/Woocommerce-vs-Shopify-Banner.jpg" alt="Shopify vs WooCommerce" />
+                <p><span style="font-weight: 400;">WooCommerce vs Shopify- To put it in simple words these two are the most popular of all the </span><span style="font-weight: 400;">e-Commerce platforms present in the market. </span><span style="font-weight: 400;">It completely depends on your needs as each one available here can be probably the only solution for you to build your ecommerce store or to with . And the news you would like to know right now is that you can accomplish it at your own without any outside help of a proffessional designer .We’ll be discussing it later .</span></p>
+<p><span style="font-weight: 400;">There might be many questions or you might be wondering ton things like which one should I opt for? Which is going to fit in my specific needs better is it shopify or WooCommerce of course we are here talking about developing an online shop.Which has more features?Which one is costlier? Flexibility .. features provided by both of them .. </span></p>
+<p><span style="font-weight: 400;">I know this is lot to take in at single time ,but as me proceed further you might get answers to all of the questions mentioned above and all of them in  depth .You will unveil the one platform you want according to your needs and requirements of your e-Commerce store.</span></p>
+<p><strong>Shopify vs WooCommerce</strong></p>
+<p><span style="font-weight: 400;">1.)</span><strong>Design:-</strong></p>
+<p><span style="font-weight: 400;">Design is whole sole of the eCommerce store. Site is not trusted by users until it functions well and has right aesthetics as well.</span></p>
+<p><strong>Shopify’s Design-</strong></p>
+<p><span style="font-weight: 400;">The quality of visual themes provided by Shopify are its best selling points.The templates available for you on shopify are more than hundreds and more than twenty of them are available in free . All of them available on Shopify are mobile responsive which is its best part and varying color options are available as well.Aesthetics of these templates are clean and are fashionable sleek which makes it well suited for modern thinking websites.</span></p>
+<p><span style="font-weight: 400;">Templates provided by shopify are designed by creative outsourced web designers. Since it is not a in house creation they are ensured to be up to date and very engaging .</span></p>
+<p><span style="font-weight: 400;">Though the pricing for some of the templates might go as high as two hundred dollars per template but after spending you will feel the template worthy of the price.</span></p>
+<p><span style="font-weight: 400;">But don’t panic as I mentioned above there are wide variety of free options available as well.</span></p>
+<p><span style="font-weight: 400;">Since the Shopify’s attractive designs catches many eyes and in result sometimes users who used Shopify to create their webpage complain of its similarity with other sites. So Shopify also provides you with easy methods of chopping and changing .This is the reason behind the encouragement of customization.You can change the style or color or both with ease ,where on the other hand many proffessional designers can use the specialized ‘Liquid’ Language of this platform to make it creative and completely seperate a brand’s look .</span></p>
+<p><strong>WooCommerce Design-</strong></p>
+<p><span style="font-weight: 400;">With many different features of WooCommerce when we come to talk about its designs ,then you have to invest some hours and will discover that world is your oyster.</span></p>
+<p><span style="font-weight: 400;">Developers of WooThemes created the WooCommerce plugin and is acquired by Automattic. It is not the platform for delivery of particular design traits . It just offers you the way to sell products or a service online . The designing part is dependent on the WordPress theme you have currently .</span></p>
+<p><span style="font-weight: 400;">Therefore it can be said that WooCommerce is created to cooperate with varying themes in the market but condition applied is they should follow standard recommendations and hours of practice.It implies that in maximum cases you can choose any WordPress theme according to your choice and integrate it with WooCommerce.</span></p>
+<p><span style="font-weight: 400;">Provided with the above mentioned themes you can also find some themes specially built for WooCommerce to create your service or product option list look eye catchy.Woo’s default theme called Storefront which is available for free , is the best design to begin with.</span></p>
+<p><span style="font-weight: 400;">It is creative theme which was designed by keeping all the features of an efficient eCommerce store in mind and in result help you sell your product with ease.</span></p>
+<p><span style="font-weight: 400;">There are child themes for Storefront also available for those who want to modify the look of their store further. Some of the themes are also available in variety of range i.e from as low as 39$ per piece and can go only high up to 120$. But as it is said ‘Money well spent’ or worthy of the price tag.</span></p>
+<p><span style="font-weight: 400;">If you want a wide range of WooCommerce themes ,you can always switch to ThemeForest where WooCommerce compatible themes are available in hundreds in number.</span></p>
+<p><span style="font-weight: 400;">When comparison has its basis on design ,definitely WooCommerce stands way ahead of SHopify .It is clear from above stated fact that apart from WooCommerce themes , you can also use any of the WordPress themes to work with your platform and definitely you can find hundreds of thousands of them on web.</span></p>
+<p><strong>2.)Comparison on Money basis (Price)-</strong></p>
+<p><span style="font-weight: 400;">The two really  have very different approach towards pricing. And under this basis Shopify wins as its pricing strategy is quite clear and straightforward. </span></p>
+<p><span style="font-weight: 400;">WooCommerce although being available for free or in one word said as open source software. It is easily downloadable from WordPress.org in free atleast but once you go for actually launching an eCommerce working store you should ready with your wallets to spend some penny for it.(You’ll unveils the details in a while)</span></p>
+<p><span style="font-weight: 400;">To put it in simple words ,when you work with Shopify, you can relate it to single out of the box solution available with a one time price tag . Once you open the box , you are good to go with the latest new eCommerce store since all your requirements are included in it.</span></p>
+<p><span style="font-weight: 400;">Summing up the above mentioned details we can conclude it into :</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">eCommerce store by Shopify implementing a top level domain :29.75$ per month.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">eCommerce store by WooCommerce implementing on same setup:$29 per month .</span></li>
+</ul>
+<p><span style="font-weight: 400;">WooCommerce claims to be available at free of cost and although its software is available at free of cost but if you want to run your Ecommerce store it costs approximately same as Shopify.</span></p>
+<p><span style="font-weight: 400;">The expenditures on WooCommerce do not end up just here as you have to also spend some from your wallet on SEO,Payment gateways and many more features. These extensions may be all one time payment but are usually around $49-$79</span></p>
+<p><span style="font-weight: 400;">Final line of all above discussion is WooCommerce is comparatively cheaper but with every extended features you have to exchange dollars .You have to be careful while setting up that you dont go over your budget line.</span></p>
+<p><span style="font-weight: 400;">There is also transaction fees to explain this further, whenever anything from your site sells i.e for processing payment or delivering money to your account they charge you money. Usually it is around 3-4% per transaction and it changes quite often but confirm the details before signing up a deal with either of these platforms .</span></p>
+<p><strong>3.) Comparison of the basis of Features:-</strong></p>
+<p><span style="font-weight: 400;">Although both platforms have completely different point of view towards pricing but when it comes to features, the are both approximately similar.</span></p>
+<p><strong>Shopify-</strong></p>
+<p><span style="font-weight: 400;">Shopify presents you with lots of free options, from the very beginning it allows you to have :</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Products are unlimited</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Storage of file is unlimited</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Fraud analysis is automatic</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Blog modules</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Discount codes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">SSL certificate is absolutely free</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">HTML and CSS are purely editable</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Payments through credit card</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Varying language options</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Profiles of customers</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Social media combination</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Both physical as well as digital products in store</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Traffic is unlimited</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Backup regular</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Site stat and report of product</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Print orders</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Shipping options</span></li>
+</ul>
+<p><span style="font-weight: 400;">As compared to WooCOmmerce where feature as shipping options, CSV uploads or fb selling will set you back up to five hundred to six hundred dollars to even get started Shopify provides all these completely free of cost.</span></p>
+<p><strong>Shopify:-</strong></p>
+<p><span style="font-weight: 400;">It is a complete out-of-the-box solution and subsciption based.It can be used both online and offline as well. It also provides you with 24*7 chat and email support. </span></p>
+<p><span style="font-weight: 400;">Your store can be modified to an extent allowed by Shopify i.e it is a closed platform and it also controls your web data. The designs made available to you are in hundreds in number out of which more than twenty are available at totally free of cost. They make you available with free domain with every plan. File storage is also unlimited It also has a native support for various languages.</span></p>
+<p><strong>WooCommerce:-</strong></p>
+<p><span style="font-weight: 400;">It is a plugin by Wordpress which is absolutely free. All it needs to get started is a server and WordPress working installation to run.It only works online and has ticket as well as forum support. Different from Shopify ,it is an open source which in simple words implies you can freely modify your store without any boundations. Unlike Shopify the subdomain is not included within it and also the storage of file is limited. It also accepts various different languages via third party plugins.</span></p>
+<p><span style="font-weight: 400;">As it is evident from above mentioned comparison that none of the important features are missing from either of the platforms. While choosing one platform all you need to concentrate on, is your personal need or your need of an open or close platform.</span></p>
+<p><span style="font-weight: 400;">Personally while evaluating both platforms on the basis of their features I somewhere felt that Shopify was a little ahead of WooCommerce as Shopify is laser-focused solution and easy to handle as well. But on the other hand WooCommerce is extremely feature rich. We can conclude that winner on the basis of features can not be decided as they both have their equal positives and negatives as well . All depends on your and your site’s personal need .</span></p>
+<p><strong>4.) Usability (ease)-</strong></p>
+<p><span style="font-weight: 400;">So according to above points we didn’t have our winners so maybe this is a point where we can compare them . The point states the ease with which a working eCommerce store can be setup by using any of them.</span></p>
+<p><strong>Shopify-</strong></p>
+<p><span style="font-weight: 400;">Well in my personal opinion, when it comes to an ease with which you can set up shopify’s strength lies within this. Since it is a subscription based tool, which if simply put in words implies that you just have to visit Shopify.com and sign up. Go through their process of setup and you are all good to go </span></p>
+<p><span style="font-weight: 400;">It is very user friendly and guides you all the way by helping you setup via asking you type of your store and relatively suggesting you a type of design well suited for your store.</span></p>
+<p><span style="font-weight: 400;">You don’t require any professional skills to develop your site. The process is itself very straightforward. All the important features of it can be accessed later, just after you have your store running.</span></p>
+<p><span style="font-weight: 400;">Shopify is an intuitive solution and there are no unexpected interruption . which means you can simply set up your store just by signing-in.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Word Ai Review | Honest Review with all Pros and Cons</title>
+        <author>
+            <name>Ankit Sharma</name>
+        </author>
+        <link href="https://ankit.digital/word-ai-review.html"/>
+        <id>https://ankit.digital/word-ai-review.html</id>
+            <category term="Review"/>
+
+        <updated>2020-05-24T23:54:12+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ankit.digital/media/posts/3/word-ai-review.jpg" alt="" />
+                    Generating content is really a time taking job. That is why many website&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ankit.digital/media/posts/3/word-ai-review.jpg" alt="" />
+                <p>Generating content is really a time taking job. That is why many website owners who don't have enough time to create new content on regular basis prefer to use spin content. Publishing new content is really hectic if you are the only person handling a bunch of sites. But Is it good to use spinned content? Which content spinner tool you should trust on?</p>
+<p>There are many questions which cover my mind when it comes to content. You might have heard this phrase "Content is King". Yes its true. Content is the main part of the websites and whole online business starts with the quality of content. So it's really hard to compromise in this sector.</p>
+<p>Paying freelancers for the content writing stuff or hiring someone to write your daily content isn't a pretty good idea always as sometimes it's hard to afford them.  If you are into this content stuff , a spinner plugin or a spinner plugin must have came in your mind. A plugin which can be integrated with your wordpress site isn't a bd idea to think about.</p>
+<p>As I have received several emails asking to suggest a word spinner. So Today I am going to discuss in detail about the WordAi.</p>
+<p>One thing you need to understand is that content spinners are here from a long time and there are several content spinners available in the market but you need to choose one which is the best to produce human readable content. Reason behind this is to avoid Google Ban hammer. Google is getting smarter everyday or I can simply say- Google don't like spinned content and using such content which is not human readable can adversely affect your website for long run. So you have two option, either you hire someone to write content for you or you can go with a good content spinner.</p>
+<p>I love blogging but I have some affiliate oriented sites for which I don't get time enough time to write the content. And it usually happens when you are in the content world. In such situations, a tool which automatically rewrite the content comes to be very handy. Who would say no to take the content available on web and put it in automatic content spinner to generate a similar sets of  unique content.</p>
+<p>I started using content spinner one and a half year ago. I started with wordpress auto spinner plugin, and then I moved to wordpress content spinner plugin.I wasn't satisfied with there performance.I have also used Spin Rewriter Tool. My experience with the mentioned 3 wasn't good but still if you had to choose from them, go for Spin Rewriter. The best alternative for Spin Writer is Word Ai. It is highly commended and listed as one of the best content rewriting tool in the market.</p>
+<p>I have purchased it 6 months back and I am ready to share my opinion for Word Ai . I will tell you wether my journey with Word Ai will be continued or not.</p>
+<p>So let's take an in depth look at the things offered by WordAi including both of it's Spinners- Standard and Turing to spin the content and analyse the quality of the content.</p>
+<p>Let's begin</p>
+<h2 id="mcetoc_1e93uml2a0">Overview of WordAi</h2>
+<p>WordAi is an automatic content spinning tool which rewrites all the sentences and paragraphs by changing its words, but the meaning remains the same. It generates a unique content. It is termed as the first multi language content spinner which can spin in the content written in four major languages : English, Spanish, French Italian.</p>
+<p>According to it's official page, wordai can assume the difference between two words. It makes sure that each and every word that have a synonym is replaced and that to sentence make sense. It not only understand the meaning of each word but also know how each word of the sentence interact and linked with the other word os the sentence.</p>
+<p>Using WordAi you will be able to create a human readable content with a single click of your mouse. It searches for all the possible ways to rewrite the content on the basis of the actual meaning of the content. WordAi sometimes rewrites the complete sentences , so it miss the originality and meaning is changed.</p>
+<p>Before spinning the article, WordAi read the complete article to understand what it is about and then spin the content with his understanding. It intends to create a human written content. With the understanding of the article WordAi create advanced paragraph and document level spins.</p>
+<p>WordAi is a web-based with api integration tool, in simple words you can access to it from anywhere, wether you are at home or prefer a software, this api will do all that job. And in this you don't have to play with spinning. You just need to put the content there and click the spin article, you will get the spinned article with the spinning syntax for SEO purpose.</p>
+<p>The best thing about WordAi is that it support bulk spinning. You can upload the content to be spinned as a zip file and you can also download spinned one as a zip file. This works really well in case you have to deal with lots of clients. I am sure you will like WordAi for this feature.</p>
+<h2 id="mcetoc_1e93uml2a1">WordAi Pricing:</h2>
+<p>WordAi offers two plans: Standard Plan and Turing Plan. Standard Plan costs $20 but to be very honest, with the standard plan you won't be able to create good human readable content, actually it is worst if you want quality in the content. Though it is extremely favourable to use it for SEO services , well it do create quality content but the content look like spun which is okay for search engines.</p>
+<p>The turing plan is extremely favourable for good quality content. It is like you will think to 'fire your writers' because the quality of the content is really good and the spinned content is human readable. You can even sell the content on sites like fiverr.</p>
+<p><strong>Turing Plan price:</strong></p>
+<p>Monthly subscription: $49.95 per month<br> Yearly turing plan: $347 per year</p>
+<h2 id="mcetoc_1e93uml2a2">WordAi Features:</h2>
+<p>In case you have used a content rewriter previously, you must be aware of the perks that come within. However, wordai is different from other content spinners because of these following features.</p>
+<ol>
+<li><strong>Wordpress automatically rewrites all the sentences and paragraphs:</strong> Though this functionality is offered by most of the content spinners but they doesn't work well enough as WordAi does. WordAi tries to understand the context of  the whole content and rewrites the sentences, keeping the meaning same as the original. It doesn't view sentences just as a list of words, rather it look for them as they are real things trying to interact each other. This human like feature of WordAi allows it to create content from the scratch.Also the high level content it produces easily pass through the plagiarism content detectors like copyscape and even its hard for google to declare it as a copied content.</li>
+<li><strong><strong>WordAi understands the interaction between the words.<br> </strong></strong>This is a great feature of WordAi. It not only rewrites the sentences and paragraphs but also understand the meaning of each word and how it interact with other words. This help wordai to rewrite the content by focusing on the context of the content, which is very important.</li>
+<li><strong>WordAi have better understanding of concepts and ideas:<br> </strong>Before starting the rewriting , WordAi first understand the concept of the content in both generic and specific way. This enables the wordai to create better sentences and paragraphs on spinning. The content generated after spun are more unique versions of the original content. As non of the other rewriting tool have deep understanding of the content, so the content created by WordAi looks like Human written</li>
+<li><strong>WordAi can create unique titles:<br> </strong>This is a unique feature of WordAi which enables it to create title for the spinned content. It creates the title after reading and understanding the concept of the original content before spinning it. This comes very handy while creating content for SEO purpose as it saves the time</li>
+<li><strong>WordAi creates synonyms:<br> </strong>It dynamically creates the synonyms of the possible words making it indistinguishable from a human. Well this is the feature for which I really appreciate WordAi. Most of the content spinners I have used before used to just simply replace the words with its synonyms, but 90 percent of them dosen't make any sense in the sentence. WordAi picks up the synonyms on the basis of understanding of the content and that synonym always make sense in the sentence.</li>
+</ol>
+<h2 id="mcetoc_1e93uml2a3">The Standard Spinner</h2>
+<p>When you will hover over the spinner after login into your account, it provides you with 3 options. In standard spinner you need to add the content to be rewritten in the text box and then it gives you option to choose from the input levels of spinning quality.</p>
+<ul>
+<li><strong>First input spinning level:</strong> First spinning quality content allows you to choose the content quality generated by the WordAi. It gives you a total 7 quality content options like: Extremely Unique, very unique, regular, readable, very readable, extremely readable.</li>
+<li><strong>Second input spinning level:  </strong>Second level of spinning quality content allows you to choose wether you want WorAi to produce content for you. This creates a better and more unique version of your content in the end.</li>
+<li><strong>Third input spinning level: </strong>In this Third level of spinning you can choose if you want WordAi to add, rewrite or rearrange the sentences automatically or not. Just like previous option, this one also creates more unique version of the content.</li>
+<li><strong>Fourth input spinning level: </strong>In this fourth spinning option you can choose wether or not to allow the WordAi to spin complete paragraphs automatically for you. Again, this one will also provide you more unique versions of your content.</li>
+</ul>
+<p>WordAi have provided directions for different types of content needs and here I am mentioning them all to make you clear about choosing the right option which satisfy your requirements.</p>
+<ul>
+<li><strong>Very Readable Content: </strong>For generating the very readable content, it is suggested to allow the content to pass through First input level and then allowing sentence rewriting ie., second input and paragraph spinning ie., third input level. For this you must avoid the fourth input level as this level won't be able to generate more unique version of your content.</li>
+<li><strong>Readable and Unique Content: </strong>For generating readable and unique content it is recommended to use the same setting as mentioned for very readable content. The only difference is to set the content quality at first input level as <strong>'Readable'. </strong>These settings will create more unique versions of the content while keeping the content at high level of readability.  This settings maintain the balance between the human readability and the uniqueness of the content. Because of this feature these recommended settings are highly favourable.</li>
+<li><strong>Tier-1 Content: </strong>For tier-1 content , it is recommended to put the first input level as 'Regular'. This setting is recommended by WordAi though I don't prefer using it. I will rather suggest to put in on 'Readable'. After this you can also activate the paragraph rewriting ie., fourth input level to generate better quality content.</li>
+<li><strong>Tier-2 Content: </strong>For tier-2 content, recommended settings are same as the tier-1 content. the only difference is to set the first input level as regular. It is important that lower tiers should have low quality of content that upper tiers as you might get caught by the google's ninjas.</li>
+</ul>
+<p>Above recommendations are given as the general guidelines to set your content for most popular situations. Feel free to customize it according to your requirement of the content. Just say for example, your tier-1 will build up only few links. for this you can set first input level as 'very readable' or even you can set it as 'extremely readable' as wordai will produce unique versions of your content.</p>
+<p>So in simple words I can say that the more you set it to be as readable in the first input level, the serious will WordAi will become in picking up the synonyms for your words. The more it will be strict at the first input level the lesser versions of unique content will be generated but for sure they will be of more high quality and human readability.</p>
+<p>Then if we do the opposite like setting the first input level towards more unique options. the WordAi will not care about the human readability of the sentences and the synonyms used will be of high quality. It will emphasise more on the replacing the words and phrases with their synonyms just to create the more unique version of the content as the end result.</p>
+<h2 id="mcetoc_1e93uml2a4">Word Ai Turing Spinner:</h2>
+<p>To open turing spinner, just hover over the spinner menu and click at the turing spinner from the spinner submenu. The turing spinner have the same page as the standard spinner. You will have the same four inputs as the standard spinner had. There is one more addition to the turing spinner which allows to pick the title generated by the WordAi. There is one more difference that Turing Spinner have only five spinning quality settings:</p>
+<ul>
+<li>Very Readable</li>
+<li>Readable</li>
+<li>Regular</li>
+<li>Unique</li>
+<li>Very Unique</li>
+</ul>
+<p> </p>
+<h2 id="mcetoc_1e93uml2a5">Difference Between WordAi Turing and WordAi Standard Spinner:</h2>
+<p>So far I have mentioned about the two versions of the content spinners: Standard Spinner and the Turing spinner.<br> The 'Standard' spinner can perform all the functions that a content spinners available in the market can do. I would say it give a little better performance than others.</p>
+<p>The content quality totally depends on the settings you have done before spinning the content. Wether you go for word spinning or paragraph spinning? The more you strict you will become while doing the settings the more unique content it will generate but in this case, readability might suffer badly. The content generated will not be in human readable format but can be easily used for SEO purpose.</p>
+<p>Turing spinner of the WordAi focuses more on the quality of the content and its structure. It emphasise more on the flow of the content and not just aggressively swapping the words with their synonyms. First it clearly understand the context of the content and then swap the words in a way that it doesn't affect the meaning of the content. It rewrite the whole content as it is written by a human author. This turing spinner is highly preferable if you wish to generate content for client work. The quality of the content is really good.</p>
+<p>I personally prefer to use the turing spinner as it suites the best to my requirement. I have many blogs to manage and sometimes it becomes hectic to write on all the blogs. I better schedule the content on some less preferred blogs and for these I generate content using turing spinner. I am extremely satisfied with its quality as I have never faced any issue with the quality of the turing spinner. Though I will suggest the standard spinner for the SEO purpose as it take s less time to spin the content.</p>
+<h2 id="mcetoc_1e93uml2a6">WordAi is a Foreign Language Spinner:</h2>
+<p>WordAi supports spinning in four different languages <strong>Italian, French, Spanish. </strong>You can simply enter the text in any of the mentioned language and WordAi will detect the language or you can manually chose the language. The content will be spun according to your customised settings or you can even opt for the recommended settings.</p>
+<p>When you will enter the content and click on "spin now" button you will get back a spintax. If you wish to make changes to any of the word, you can simply edit by clicking on the word and a list of all possible synonyms will be shown as a list, you can choose the one that is appropriate according to the context of your content. You can select/unselect or add/remove or even you can type your synonym to replace the word. Use left/right key to move from one word to another quickly.</p>
+<p>Well in case of using foreign language you can only select if you want your spinned content to be regular or readable and if you want to add/remove sentences from nested spintax automatically.</p>
+<p>Ahh! I have no knowledge about these languages so i can't perform and show the conversion in example.</p>
+<h2 id="mcetoc_1e93uml2a7">Pro's and Cons of WordAi:</h2>
+<p>Here I will share the advantages and disadvantages of using WordAi for you creating your website content.</p>
+<p><strong>Pros:</strong></p>
+<ul>
+<li>Easy to Use: From the above discussion it is clear that WordAi is easy to use and it is simple to navigate and have a very straight forward approach.</li>
+<li>You can add your own synonyms and replace the word.</li>
+<li>Third Party installations: The WordAi API can be used with other any other tools</li>
+<li>Multilingual: It performs well in 3 different languages. French, Spanish, Italian. It is the only spinner that supports a language other than English.</li>
+<li>Free trial for 3 days: You can test the tool by using it for free for 3 days.</li>
+<li>Web Interface: WordAi is a web interface and it can be accessed from any device.</li>
+<li>It produces a human readable content. You just have to use the recommended settings. The content even looks like human written.</li>
+</ul>
+<p><strong>Cons:</strong></p>
+<ul>
+<li>No lifetime plans: WordAi offers only monthly and yearly subscription plan while there are any other content rewriting tools in the market which offers lifetime access to the tool with one-time payment.</li>
+<li>It is expensive: Both of its subscription charges are expensive and competitors provide much cheaper plans.</li>
+<li>Word Limits: Both the standard and turing spinner have a monthly word limit.</li>
+<li>Access to Internet required: To use WordAi you must be connected to the Internet as its works like a browser application</li>
+</ul>
+<p><strong>Conclusion:</strong></p>
+<p>Automatically spinning features of WordAi are awesome. But it have its limitations when it comes to manually altering the spintax.</p>
+<p>The content generated by WordAi is of Good quality but sometimes it looks like spun content and require manual editing. If it can understand the content like human then it can produce some pretty impressive content. Though it is far better than the other tools available in the market. Just addition of few more features will make it unbeatable.</p>
+<p>The best part of WordAi is that it is incredibly easy to use. You can integrate the WordAi with almost all of the popular marketing tools.</p>
+<p>According to my experience the turing spinner creates content of better quality than the standard spinner. So I will recommend using turing over standard spinner.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Connect domain name to your EC2 instance ip address (Wordpress)</title>
+        <author>
+            <name>Ankit Sharma</name>
+        </author>
+        <link href="https://ankit.digital/connect-domain-name-to-your-ec2-instance-ip-address-wordpress.html"/>
+        <id>https://ankit.digital/connect-domain-name-to-your-ec2-instance-ip-address-wordpress.html</id>
+            <category term="Amazon AWS"/>
+
+        <updated>2020-05-24T23:42:38+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ankit.digital/media/posts/11/wordpress-amazon-cloudfront-banner-rev1.jpg" alt="" />
+                    Assuming that you have an EC2 instance and you have installed wordpress&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ankit.digital/media/posts/11/wordpress-amazon-cloudfront-banner-rev1.jpg" alt="" />
+                <p style="text-align: left;">Assuming that you have an EC2 instance and you have installed wordpress on it either manually or through bitnami image. Your wordpress installation is now live on a ip address and you wish that this should be opened using a domain name. If this is the case, you are at the right place and I am going to resolve your issue.</p>
+<p>Using Domain registrar's DNS panel</p>
+<p>Login to your domain registrar and move to the DNS section. You need to update the A records there. Copy the ip address of your wordpress blog on which it's opening (Public ip of your ec2 instance) and paste the in your A records.</p>
+<p>It's better to update the A records twice. One for www and one for naked url.</p>
+<p>After you are done updating the A records, you need to login to your wordpress dashboard, go to settings and click on general.</p>
+<p>In this section you need to replace the ip address with the domain name in "Site Address" and "Site URL" fields. Click on update after you are done.</p>
+<p> </p>
+<p>If everything above is done properly, your wordpress site should now open on a domain name.</p>
+<p> </p>
+<p>(Optional) To manage the DNS section, you can also use AWS Route 53.</p>
+<p>In case you have any doubt, you can comment below, I shall try to solve your queries.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Find .htaccess in AWS Linux AMI wordpress installation</title>
+        <author>
+            <name>Ankit Sharma</name>
+        </author>
+        <link href="https://ankit.digital/find-htaccess-in-aws-linux-ami-wordpress-installation.html"/>
+        <id>https://ankit.digital/find-htaccess-in-aws-linux-ami-wordpress-installation.html</id>
+            <category term="Amazon AWS"/>
+
+        <updated>2020-05-24T23:43:26+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ankit.digital/media/posts/10/wordpress-amazon-cloudfront-banner-rev1.jpg" alt="AWS Linux AMI wordpress" />
+                    If you are new to AWS and is in trouble finding .htaccess&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ankit.digital/media/posts/10/wordpress-amazon-cloudfront-banner-rev1.jpg" alt="AWS Linux AMI wordpress" />
+                <p>If you are new to AWS and is in trouble finding .htaccess file for your wordpress installation, then you are at the very apt place. You might have your wordpress installation using bitnami image on aws, or Linux AMI / Linux 2 AMI or Ubuntu or any other.</p>
+<p>Like other shared hosting, Amazon VPC, does not have .htaccess file with the name in server. Rather you will be able to find it here : /etc/httpd/httpd.conf</p>
+<p>You can carryout anything from here which you want to do through .htaccess file. Various operation can be done through httpd.conf file similar to that of .htaccess. Few examples :</p>
+<ul>
+<li>Defining File paths</li>
+<li>Redirection</li>
+<li>Canonical rules</li>
+<li>blocking / allowing ip's</li>
+<li>blocking / allowing certain bots.</li>
+<li>etc</li>
+</ul>
+<p>I hope this post helped you. In case something doesn't make sense to you in this post, you can comment below and I shall explain it to you.</p>
+<p>Thanks.</p>
             ]]>
         </content>
     </entry>
