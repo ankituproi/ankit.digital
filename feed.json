@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://ankit.digital/thank-you-page.html",
-            "url": "https://ankit.digital/thank-you-page.html",
-            "title": "Thank you Page",
-            "summary": " ",
-            "content_html": "<!-- Wishpond embed code -->\n<script type=\"text/javascript\" src=\"//cdn.wishpond.net/connect.js?merchantId=1505298&amp;writeKey=d652461a1fa7\" async=\"\"></script>\n<div class=\"wishpond-campaign\"  > </div>",
-            "author": {
-                "name": "Ankit Sharma"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-05-31T18:07:45+05:30",
-            "date_modified": "2020-05-31T18:11:01+05:30"
-        },
-        {
             "id": "https://ankit.digital/free-tools-for-student-entrepreneurs.html",
             "url": "https://ankit.digital/free-tools-for-student-entrepreneurs.html",
             "title": "Important tools and free resources for Student Entrepreneurs",
@@ -160,6 +146,22 @@
             ],
             "date_published": "2019-08-13T09:32:55+05:30",
             "date_modified": "2020-05-25T11:44:12+05:30"
+        },
+        {
+            "id": "https://ankit.digital/connect-domain-name-to-your-ec2-instance-ip-address-wordpress.html",
+            "url": "https://ankit.digital/connect-domain-name-to-your-ec2-instance-ip-address-wordpress.html",
+            "title": "Connect domain name to your EC2 instance ip address (Wordpress)",
+            "summary": "Assuming that you have an EC2 instance and you have installed wordpress&hellip;",
+            "content_html": "<p style=\"text-align: left;\">Assuming that you have an EC2 instance and you have installed wordpress on it either manually or through bitnami image. Your wordpress installation is now live on a ip address and you wish that this should be opened using a domain name. If this is the case, you are at the right place and I am going to resolve your issue.</p>\n<p>Using Domain registrar's DNS panel</p>\n<p>Login to your domain registrar and move to the DNS section. You need to update the A records there. Copy the ip address of your wordpress blog on which it's opening (Public ip of your ec2 instance) and paste the in your A records.</p>\n<p>It's better to update the A records twice. One for www and one for naked url.</p>\n<p>After you are done updating the A records, you need to login to your wordpress dashboard, go to settings and click on general.</p>\n<p>In this section you need to replace the ip address with the domain name in \"Site Address\" and \"Site URL\" fields. Click on update after you are done.</p>\n<p> </p>\n<p>If everything above is done properly, your wordpress site should now open on a domain name.</p>\n<p> </p>\n<p>(Optional) To manage the DNS section, you can also use AWS Route 53.</p>\n<p>In case you have any doubt, you can comment below, I shall try to solve your queries.</p>",
+            "image": "https://ankit.digital/media/posts/11/wordpress-amazon-cloudfront-banner-rev1.jpg",
+            "author": {
+                "name": "Ankit Sharma"
+            },
+            "tags": [
+                   "Amazon AWS"
+            ],
+            "date_published": "2018-12-10T13:47:41+05:30",
+            "date_modified": "2020-05-25T11:42:52+05:30"
         }
     ]
 }
