@@ -3,12 +3,34 @@
     <title>Ankit.Digital</title>
     <link href="https://ankit.digital/feed.xml" rel="self" />
     <link href="https://ankit.digital" />
-    <updated>2020-05-31T18:09:01+05:30</updated>
+    <updated>2020-05-31T18:11:07+05:30</updated>
     <author>
         <name>Ankit Sharma</name>
     </author>
     <id>https://ankit.digital</id>
 
+    <entry>
+        <title>Thank you Page</title>
+        <author>
+            <name>Ankit Sharma</name>
+        </author>
+        <link href="https://ankit.digital/thank-you-page.html"/>
+        <id>https://ankit.digital/thank-you-page.html</id>
+
+        <updated>2020-05-31T18:11:01+05:30</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <!-- Wishpond embed code -->
+<script type="text/javascript" src="//cdn.wishpond.net/connect.js?merchantId=1505298&amp;writeKey=d652461a1fa7" async=""></script>
+<div class="wishpond-campaign"  > </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Important tools and free resources for Student Entrepreneurs</title>
         <author>
@@ -549,39 +571,6 @@
 <p>The best part of WordAi is that it is incredibly easy to use. You can integrate the WordAi with almost all of the popular marketing tools.</p>
 <p>According to my experience the turing spinner creates content of better quality than the standard spinner. So I will recommend using turing over standard spinner.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Connect domain name to your EC2 instance ip address (Wordpress)</title>
-        <author>
-            <name>Ankit Sharma</name>
-        </author>
-        <link href="https://ankit.digital/connect-domain-name-to-your-ec2-instance-ip-address-wordpress.html"/>
-        <id>https://ankit.digital/connect-domain-name-to-your-ec2-instance-ip-address-wordpress.html</id>
-            <category term="Amazon AWS"/>
-
-        <updated>2020-05-25T11:42:52+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ankit.digital/media/posts/11/wordpress-amazon-cloudfront-banner-rev1.jpg" alt="" />
-                    Assuming that you have an EC2 instance and you have installed wordpress&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://ankit.digital/media/posts/11/wordpress-amazon-cloudfront-banner-rev1.jpg" alt="" />
-                <p style="text-align: left;">Assuming that you have an EC2 instance and you have installed wordpress on it either manually or through bitnami image. Your wordpress installation is now live on a ip address and you wish that this should be opened using a domain name. If this is the case, you are at the right place and I am going to resolve your issue.</p>
-<p>Using Domain registrar's DNS panel</p>
-<p>Login to your domain registrar and move to the DNS section. You need to update the A records there. Copy the ip address of your wordpress blog on which it's opening (Public ip of your ec2 instance) and paste the in your A records.</p>
-<p>It's better to update the A records twice. One for www and one for naked url.</p>
-<p>After you are done updating the A records, you need to login to your wordpress dashboard, go to settings and click on general.</p>
-<p>In this section you need to replace the ip address with the domain name in "Site Address" and "Site URL" fields. Click on update after you are done.</p>
-<p> </p>
-<p>If everything above is done properly, your wordpress site should now open on a domain name.</p>
-<p> </p>
-<p>(Optional) To manage the DNS section, you can also use AWS Route 53.</p>
-<p>In case you have any doubt, you can comment below, I shall try to solve your queries.</p>
             ]]>
         </content>
     </entry>
