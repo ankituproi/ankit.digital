@@ -3,7 +3,7 @@
     <title>Ankit.Digital</title>
     <link href="https://ankit.digital/feed.xml" rel="self" />
     <link href="https://ankit.digital" />
-    <updated>2020-06-14T01:12:50+05:30</updated>
+    <updated>2020-06-14T01:54:20+05:30</updated>
     <author>
         <name>Ankit Sharma</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Reviews"/>
             <category term="Review"/>
 
-        <updated>2020-06-14T01:12:45+05:30</updated>
+        <updated>2020-06-14T01:54:10+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://ankit.digital/media/posts/28/MicrosoftTeams-image-1.png" alt="Sendy reviwed honestly" />
@@ -60,9 +60,22 @@
 <p class="p1">Going ahead, let me explain how to play with the system. I’ll share the important functionalities of the Sendy so that you can analyse if it fit’s in your use-cases.</p>
 <p class="p2"> </p>
 <ol class="ol1">
-<li class="li1">Prepare your email list : If you want people To subscribe to your email list, just create a new list on your sendy setup and place the given embed code to your blog. I have attached the two screenshots to do the process.</li>
-<li class="li1">Launch your campaigns and see detailed stats including, who open your emails, who clicked links inside your email. Mails that got bounced and people who unsubscribed will automatically be taken care with the help of the system. Next time when you send a campaign, these mail id’s would automatically be left out.</li>
-<li class="li1">Drip Series - Though this is not a proper if/else drip campaign functionality. But you can prepare your series of email for a particular set of subscribers. For example - You have launched your advertising campaigns to prepare an email list<span class="Apple-converted-space">  </span>for people who wants to learn Blogging. As part of campaign you have asked your audience that they will receive 7 lessons for 7 days (1 lesson a day). So as soon as the person as subscribed, they will be able to receive a pre defined email as the course lesson everyday. Screenshot for this example is shared below.</li>
+<li class="li1">Prepare your email list : If you want people To subscribe to your email list, just create a new list on your sendy setup and place the given embed code to your blog. I have attached the two screenshots to do the process.
+<figure class="post__image post__image" ><img src="https://ankit.digital/media/posts/28/Screenshot-2020-06-14-at-1.21.42-AM.png" alt="Sendy Subscriber Settings" width="1920" height="912">
+<figcaption >Creating New email list with Sendy</figcaption>
+</figure>
+<figure class="post__image post__image" ><img src="https://ankit.digital/media/posts/28/Screenshot-2020-06-14-at-1.45.28-AM.png" alt="Subscribe form in Sendy" width="1920" height="526">
+<figcaption >Subscribe form in Sendy</figcaption>
+</figure>
+</li>
+<li class="li1">Launch your campaigns and see detailed stats including, who open your emails, who clicked links inside your email. Mails that got bounced and people who unsubscribed will automatically be taken care with the help of the system. Next time when you send a campaign, these mail id’s would automatically be left out.
+<figure class="post__image post__image--center" ><img src="https://ankit.digital/media/posts/28/Screenshot-2020-06-14-at-1.50.04-AM.png" alt="Sendy detailed stats for an email campaign" width="1920" height="782">
+<figcaption >
+<p>Sendy detailed stats for an email campaign</p>
+</figcaption>
+</figure>
+</li>
+<li class="li1">Drip Series - Though this is not a proper if/else drip campaign functionality. But you can prepare your series of email for a particular set of subscribers. For example - You have launched your advertising campaigns to prepare an email list<span class="Apple-converted-space">  </span>for people who wants to learn Blogging. As part of campaign you have asked your audience that they will receive 7 lessons for 7 days (1 lesson a day). So as soon as the person as subscribed, they will be able to receive a pre defined email as the course lesson everyday. You can design your own series of emails by Clicking on Autoresponder Tab inside your selected list. </li>
 <li class="li1">Launch your email marketing agency : You can create sub-accounts with proper brand name and allot credits / limits to the sub accounts to send emails. This way, you can earn easy money selling out your email marketing services.</li>
 </ol>
 <p class="p2"> </p>
