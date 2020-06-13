@@ -3,12 +3,75 @@
     <title>Ankit.Digital</title>
     <link href="https://ankit.digital/feed.xml" rel="self" />
     <link href="https://ankit.digital" />
-    <updated>2020-05-31T18:22:51+05:30</updated>
+    <updated>2020-06-14T01:09:25+05:30</updated>
     <author>
         <name>Ankit Sharma</name>
     </author>
     <id>https://ankit.digital</id>
 
+    <entry>
+        <title>Sendy Review 2020 - Detailed Guide to Comparison and Alternatives in Email Marketing Industry</title>
+        <author>
+            <name>Ankit Sharma</name>
+        </author>
+        <link href="https://ankit.digital/sendy-review-2020-detailed-guide-to-comparison-and-alternatives-in-email-marketing-industry.html"/>
+        <id>https://ankit.digital/sendy-review-2020-detailed-guide-to-comparison-and-alternatives-in-email-marketing-industry.html</id>
+            <category term="Reviews"/>
+            <category term="Review"/>
+
+        <updated>2020-06-14T01:09:18+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ankit.digital/media/posts/28/MicrosoftTeams-image-1.png" alt="Sendy reviwed honestly" />
+                    You want to take control of your email marketing activities and yet&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ankit.digital/media/posts/28/MicrosoftTeams-image-1.png" alt="Sendy reviwed honestly" />
+                <p class="p1">You want to take control of your email marketing activities and yet make it do like a boss with super awesome results, well you are at the right place, keep reading the post.</p>
+<p class="p2">Before I start to Review <strong><a href="https://blog.ankit.digital/recommends/sendy" target="_blank" rel="nofollow noopener noreferrer">Sendy</a></strong>, I'll start with the basic background. I am doing email marketing for years and I have almost used all the top notch apps available in the market be it Mailchimp, Getresponse, Sendgrid, Mailgun, and many others. But there’s very strong feeling in you when you take control of your email marketing. On my hunt for perfect email marketing solution I got to know about Amazon SES. It’s part of AWS. With Amazon SES, you can widely operate not only for email marketing but also for various for marketing automation, triggering various kind of rules for emails and much more. Plus point of having this control is that you can do many things in cost efficient manner. With Amazon SES, your cost for sending 1000 emails is just $0.10.</p>
+<p class="p2"> </p>
+<p class="p1">Upside of using Amazon SES is just not being a cost efficient solution but also higher inbox delivery rates (Comm’on, we are talking about Amazon Servers). You can use SES to build your email marketing process the way you want. To do that, you need to either code your own application or fins some reliable hosted app that can act as your email client.</p>
+<p class="p1">Now, this is where sendy comes in. You simply need to integrate Sendy with your Amazon SES account and then you are done. Post this, you will be able to setup email list creation for various of your sites, Subscription settings, create auto responders, Optin and Double Optin emails, and more.</p>
+<h3 id="mcetoc_1eanig3h90"><a href="https://blog.ankit.digital/recommends/sendy" target="_blank" rel="nofollow noopener noreferrer">Sendy - Email Marketing Tool</a></h3>
+<p class="p1">As clear from my post, you might be of this opinion that this guy is just talking of the positive aspect only and thus you are somehow missing our review of Sendy. My friend, that’s not the case. I am here to totally justify the purpose of your visit. Till now, I just made you aware of <strong>What is Sendy? </strong>Read further to know all the pros and cons of Sendy.</p>
+<p class="p2 msg msg--highlight ">Here's the link to Sendy's official Website --&gt; <a href="https://blog.ankit.digital/recommends/sendy" target="_blank" rel="nofollow noopener noreferrer">Sendy - Send newsletters, 100x cheaper </a></p>
+<p class="p1">Pros of using Sendy :</p>
+<ul class="ul1">
+<li class="li1">Best part, Just one time cost of $29. No renewal fee, nothing. Be worry free for life.</li>
+<li class="li1">Super flexible solution, hosted on your own server and thus you retain your data without sharing them with any Email service provider.</li>
+<li class="li1">You can automate the list building and subscription settings. That is, Once the setup is correctly done, you need to to touch it again, it will do the magic based on your defined settings.</li>
+<li class="li1">Setup Autoresponders and drip email series to automate your email marketing.</li>
+<li class="li1">Create Email Subscription Box to place on your site and populate your email list on it’s own.</li>
+<li class="li1">You can not inly use Sendy for your own, but you can make some money by selling to further to your clients. It has the option to create Sub accounts and pre-define pricing options based on Number of emails or subscribers. There by giving you can option to sell Email marketing as an option.</li>
+<li class="li1">Sendy also gives multiple integration with Zapier’s connectivity. You can integrate to any possible app of your choice. For example, as soon as the person subscribe and entered to your email list, can directly be sent to your CRM as well.</li>
+</ul>
+<p class="p2"> </p>
+<p class="p1">Cons of Using Sendy</p>
+<ul class="ul1">
+<li class="li1">Setting up Sendy can be the pain in your ass if you not a bit techie.</li>
+<li class="li1">There might be some bugs due to server’s compatibility or so. You will need those to be resolved. Though, not a big thing but can take time for a newbie.</li>
+<li class="li1">Advanced email marketing automation features like behavioural tagging, drip action based on if/else<span class="Apple-converted-space">  </span>are not available.</li>
+</ul>
+<p class="p2"> </p>
+<p class="p1">Now that I have told you all the Pros and Cons, I leave it to you to either use it or not. My post should be used as an analysis on what are the actual features you look for in an email marketing app. If the one that you need covers all of what Sendy offers, you must definitely go for it considering the cost of the system.</p>
+<p class="p2"> </p>
+<p class="p1">Going ahead, let me explain how to play with the system. I’ll share the important functionalities of the Sendy so that you can analyse if it fit’s in your use-cases.</p>
+<p class="p2"> </p>
+<ol class="ol1">
+<li class="li1">Prepare your email list : If you want people To subscribe to your email list, just create a new list on your sendy setup and place the given embed code to your blog. I have attached the two screenshots to do the process.</li>
+<li class="li1">Launch your campaigns and see detailed stats including, who open your emails, who clicked links inside your email. Mails that got bounced and people who unsubscribed will automatically be taken care with the help of the system. Next time when you send a campaign, these mail id’s would automatically be left out.</li>
+<li class="li1">Drip Series - Though this is not a proper if/else drip campaign functionality. But you can prepare your series of email for a particular set of subscribers. For example - You have launched your advertising campaigns to prepare an email list<span class="Apple-converted-space">  </span>for people who wants to learn Blogging. As part of campaign you have asked your audience that they will receive 7 lessons for 7 days (1 lesson a day). So as soon as the person as subscribed, they will be able to receive a pre defined email as the course lesson everyday. Screenshot for this example is shared below.</li>
+<li class="li1">Launch your email marketing agency : You can create sub-accounts with proper brand name and allot credits / limits to the sub accounts to send emails. This way, you can earn easy money selling out your email marketing services.</li>
+</ol>
+<p class="p2"> </p>
+<p class="p1">Conclusion / Takeaway - Given the price of Sendy, it is a versatile piece of software to handle your email marketing needs. This gives your the power to control your emails and the budget you spend on emails. I would rate sendy 5/5.</p>
+<p class="p2 msg msg--success">If this all makes sense to you and you are interested to go for sendy, here you go - <strong><a href="https://blog.ankit.digital/recommends/sendy" target="_blank" rel="nofollow noopener noreferrer">Sendy's Official Website</a></strong></p>
+<p class="p1">In case you need help to configure Sendy to your hosting and do all the required setup, you can schedule a call for Sendy Setup Services.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Important tools and free resources for Student Entrepreneurs</title>
         <author>
@@ -549,39 +612,6 @@
 <p>The best part of WordAi is that it is incredibly easy to use. You can integrate the WordAi with almost all of the popular marketing tools.</p>
 <p>According to my experience the turing spinner creates content of better quality than the standard spinner. So I will recommend using turing over standard spinner.</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Connect domain name to your EC2 instance ip address (Wordpress)</title>
-        <author>
-            <name>Ankit Sharma</name>
-        </author>
-        <link href="https://ankit.digital/connect-domain-name-to-your-ec2-instance-ip-address-wordpress.html"/>
-        <id>https://ankit.digital/connect-domain-name-to-your-ec2-instance-ip-address-wordpress.html</id>
-            <category term="Amazon AWS"/>
-
-        <updated>2020-05-25T11:42:52+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://ankit.digital/media/posts/11/wordpress-amazon-cloudfront-banner-rev1.jpg" alt="" />
-                    Assuming that you have an EC2 instance and you have installed wordpress&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://ankit.digital/media/posts/11/wordpress-amazon-cloudfront-banner-rev1.jpg" alt="" />
-                <p style="text-align: left;">Assuming that you have an EC2 instance and you have installed wordpress on it either manually or through bitnami image. Your wordpress installation is now live on a ip address and you wish that this should be opened using a domain name. If this is the case, you are at the right place and I am going to resolve your issue.</p>
-<p>Using Domain registrar's DNS panel</p>
-<p>Login to your domain registrar and move to the DNS section. You need to update the A records there. Copy the ip address of your wordpress blog on which it's opening (Public ip of your ec2 instance) and paste the in your A records.</p>
-<p>It's better to update the A records twice. One for www and one for naked url.</p>
-<p>After you are done updating the A records, you need to login to your wordpress dashboard, go to settings and click on general.</p>
-<p>In this section you need to replace the ip address with the domain name in "Site Address" and "Site URL" fields. Click on update after you are done.</p>
-<p> </p>
-<p>If everything above is done properly, your wordpress site should now open on a domain name.</p>
-<p> </p>
-<p>(Optional) To manage the DNS section, you can also use AWS Route 53.</p>
-<p>In case you have any doubt, you can comment below, I shall try to solve your queries.</p>
             ]]>
         </content>
     </entry>
