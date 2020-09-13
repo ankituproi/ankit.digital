@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://ankit.digital/guide-to-google-webmasters.html",
+            "url": "https://ankit.digital/guide-to-google-webmasters.html",
+            "title": "The Ultimate Guide to Google Webmasters 2020",
+            "summary": "What is Google Search Console?Google Search Console formerly known for Google Webmaster&hellip;",
+            "content_html": "<h2><span style=\"color: #000000;\"><strong>What is Google Search Console?</strong></span></h2>\n<p><span style=\"color: #000000;\">Google Search Console formerly known for Google Webmaster Tools which is a free platform and it can be used by anyone who owns a Gmail account with a website for which he/she wants to monitor how Google views their website and also with Google Search Console it can optimize its organic presence on the search engine. Google Search Console includes viewing your referring domains, mobile website performance, rich results, and traffic queries, and most visited pages.</span></p>\n<figure class=\"post__image post__image--center\"><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://ankit.digital/media/posts/30/Google-Search-Console.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ankit.digital/media/posts/30/responsive/Google-Search-Console-xs.jpg 300w ,https://ankit.digital/media/posts/30/responsive/Google-Search-Console-sm.jpg 480w ,https://ankit.digital/media/posts/30/responsive/Google-Search-Console-md.jpg 768w ,https://ankit.digital/media/posts/30/responsive/Google-Search-Console-lg.jpg 1024w\"  alt=\"Google Search Console\"></figure></span></p>\n<h2><span style=\"color: #000000;\"><strong>How to add your website to Google Search Console?</strong></span></h2>\n<p><span style=\"color: #000000;\">Here we will let you know how to add your website to Google Search Console. Follow the below steps:</span></p>\n<ol>\n<li><span style=\"color: #000000;\">Login to your Google Account. Make sure you are using your business Gmail account if its business website, if it’s personal then you can use your personal account.</span></li>\n<li><span style=\"color: #000000;\">Go to <a href=\"https://search.google.com/search-console/welcome\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" style=\"color: #000000;\">Google Search Console</a></span></li>\n<li><span style=\"color: #000000;\">Click on add property as below screenshot</span></li>\n</ol>\n<figure class=\"post__image post__image--center\"><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://ankit.digital/media/posts/30/Add-Property-in-Search-Console.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ankit.digital/media/posts/30/responsive/Add-Property-in-Search-Console-xs.png 300w ,https://ankit.digital/media/posts/30/responsive/Add-Property-in-Search-Console-sm.png 480w ,https://ankit.digital/media/posts/30/responsive/Add-Property-in-Search-Console-md.png 768w ,https://ankit.digital/media/posts/30/responsive/Add-Property-in-Search-Console-lg.png 1024w\"  alt=\"Add Property in Google Search Console\" width=\"753\" height=\"347\"></figure>4. Choose your property type:</span><br><span style=\"color: #000000;\">4.1. Domain: We have to select this when we have more than 1 subdomain like if you want to add m. or www. As well then you have to select this type and do further verification.</span><br><span style=\"color: #000000;\">4.2 URL Prefix: We have to select this when we have only one domain and then do further verification.</span></p>\n<figure class=\"post__image post__image--center\"><br><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://ankit.digital/media/posts/30/property-type-selection.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ankit.digital/media/posts/30/responsive/property-type-selection-xs.png 300w ,https://ankit.digital/media/posts/30/responsive/property-type-selection-sm.png 480w ,https://ankit.digital/media/posts/30/responsive/property-type-selection-md.png 768w ,https://ankit.digital/media/posts/30/responsive/property-type-selection-lg.png 1024w\"  alt=\"Property type Selection in Google Search Console\" width=\"735\" height=\"473\"></figure></span></p>\n<p><span style=\"color: #000000;\">5. Select the correct URL of your website.</span></p>\n<p><span style=\"color: #000000;\">There are 5 types of verification methods you can verify with any of these.</span><br><span style=\"color: #000000;\">1. HTML File</span><br><span style=\"color: #000000;\">2. HTML Meta Tag</span><br><span style=\"color: #000000;\">3. Google Analytics</span><br><span style=\"color: #000000;\">4. Google Tag Manager</span><br><span style=\"color: #000000;\">5. Domain Name Provider</span></p>\n<h3><span style=\"color: #000000;\"><strong>Why verification needed for Google Search Console?</strong></span></h3>\n<p><span style=\"color: #000000;\">I hope you are well known that Google search console gives you access to confidential information about your website’s performance so that you need to verify that you own that site.</span></p>\n<p><span style=\"color: #000000;\">This verification gives a specific user control over a property. You must verify one owner per Google Search Console Property.</span></p>\n<p><span style=\"color: #000000;\">Also, note down that after verification of your property doesn’t affect your page ranking and performance in Google Search.</span></p>\n<p><span style=\"color: #000000;\">It may increase your performance with more information with Google Search Console and due to this, you can rank easily in search engines.</span></p>\n<h3><span style=\"color: #000000;\"><strong>Difference Between Owner Permission, Full Permission, and Restricted Permission</strong></span></h3>\n<ol>\n<li><span style=\"color: #000000;\"><strong>Owner Permission</strong>: You can check all about your website, manage users, total control of all your related properties, change the settings, and access every tool. The owner can add delegated owners to the property who can’t have that much control but they can also do much and they can’t add more users without verification with any one method of verification.</span></li>\n<li><span style=\"color: #000000;\"><strong>Full Permission</strong>: They can check all information and also take some actions but can’t add users.</span></li>\n<li><span style=\"color: #000000;\"><strong style=\"font-family: var(--font-base); font-size: inherit;\">Restricted Permission</strong><span style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">: They can check all information related to that particular property but can’t take any action.</span></span></li>\n</ol>\n<h3><span style=\"color: #000000;\"><strong>Features and Reporting Tools in GSC</strong></span></h3>\n<ul>\n<li><span style=\"color: #000000;\">Robots.txt tester</span></li>\n<li><span style=\"color: #000000;\">Sitemap reports and testing tool</span></li>\n<li><span style=\"color: #000000;\">Coverage Report</span></li>\n<li><span style=\"color: #000000;\">Performance report</span></li>\n<li><span style=\"color: #000000;\">URL Inspection Tool</span></li>\n<li><span style=\"color: #000000;\">Removal Tool</span></li>\n<li><span style=\"color: #000000;\">Core web vital tool</span></li>\n<li><span style=\"color: #000000;\">Mobile Usability Report</span></li>\n<li><span style=\"color: #000000;\">Links report</span></li>\n<li><span style=\"color: #000000;\">Settings</span></li>\n<li><span style=\"color: #000000;\">Security and Manual Action Report</span></li>\n<li><span style=\"color: #000000;\">International Targeting Tool</span></li>\n<li><span style=\"color: #000000;\">Crawl Stats report</span></li>\n<li><span style=\"color: #000000;\">Messages</span></li>\n<li><span style=\"color: #000000;\">URL Parameter</span></li>\n<li><span style=\"color: #000000;\">Ad experience report</span></li>\n<li><span style=\"color: #000000;\">Abusive Experience Report</span></li>\n<li><span style=\"color: #000000;\">Abusive Notifications</span></li>\n<li><span style=\"color: #000000;\">Testing Tools</span></li>\n<li><span style=\"color: #000000;\">Other resources</span></li>\n</ul>\n<p><span style=\"color: #000000;\">Now I am going to explain all the above tools about what they are and how you can use it to improve your website performance.</span></p>\n<ul>\n<li><span style=\"color: #000000;\"><a href=\"https://www.google.com/webmasters/tools/robots-testing-tool\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" style=\"color: #000000;\">Robots.txt Tester</a>: Here you can check your robots.txt blocking or unblocking and also see how Google sees your robots.txt even you can also update from here your recent update in robots.txt.</span></li>\n<li><span style=\"color: #000000;\"><strong>Sitemap reports and testing tool</strong>: Here you can test all your sitemaps and also submit your sitemap. From this report, you can check when Google read your sitemap and how many links are discovered by Google from your sitemap.</span></li>\n<li><span style=\"color: #000000;\"><strong>Coverage Report</strong>: In this reporting tool, you can check all your website’s coverage report regarding when any error found in your website you will get a notification through your admin email or any full access user that GSC Detected coverage issue in your website. This coverage report also shows that how your website performing over the coverage of search results. Like if you have any 404 then it will show all of your pages with a soft 404 effects. Now you need to validate that you have fixed your 404 pages and made them work.</span></li>\n<li><span style=\"color: #000000;\"><strong style=\"font-family: var(--font-base); font-size: inherit;\">Performance Report</strong><span style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">: Here you can check all performance of your website from any date to any year with filter means you can check all details related to your website pages that how much they are performing to the search engine and when they are down and how many organic clicks you have got for that particular pages. In which country you have got maximum clicks, from which device you are getting most of the clicks etc.</span></span></li>\n</ul>\n<figure class=\"post__image post__image--center\"><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://ankit.digital/media/posts/30/Performance-Report-of-Google-Search-Console.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ankit.digital/media/posts/30/responsive/Performance-Report-of-Google-Search-Console-xs.png 300w ,https://ankit.digital/media/posts/30/responsive/Performance-Report-of-Google-Search-Console-sm.png 480w ,https://ankit.digital/media/posts/30/responsive/Performance-Report-of-Google-Search-Console-md.png 768w ,https://ankit.digital/media/posts/30/responsive/Performance-Report-of-Google-Search-Console-lg.png 1024w\"  alt=\"Performance Report of Google Search Console\" width=\"722\" height=\"369\"></figure></span></p>\n<ul>\n<li><span style=\"color: #000000;\"><strong>URL Inspection Tool</strong>: From here you can inspect your web URL by putting your  URL into the box and check with Live Test about how Google views your page you will get errors to report on that page.</span></li>\n</ul>\n<figure class=\"post__image post__image--center\"><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://ankit.digital/media/posts/30/URL-Inspection-Tool-in-Google-Search-Console.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ankit.digital/media/posts/30/responsive/URL-Inspection-Tool-in-Google-Search-Console-xs.png 300w ,https://ankit.digital/media/posts/30/responsive/URL-Inspection-Tool-in-Google-Search-Console-sm.png 480w ,https://ankit.digital/media/posts/30/responsive/URL-Inspection-Tool-in-Google-Search-Console-md.png 768w ,https://ankit.digital/media/posts/30/responsive/URL-Inspection-Tool-in-Google-Search-Console-lg.png 1024w\"  alt=\"URL Inspection Tool in GSC\" width=\"744\" height=\"92\"></figure></span></p>\n<ul>\n<li><span style=\"color: #000000;\"><strong>Removal Tool</strong>: From here you can remove your outdated content, information, or any 404 pages which are not present on your website. You will see this option left side column.</span></li>\n</ul>\n<figure class=\"post__image post__image--center\"><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://ankit.digital/media/posts/30/Removal-Tool-in-GSC.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ankit.digital/media/posts/30/responsive/Removal-Tool-in-GSC-xs.png 300w ,https://ankit.digital/media/posts/30/responsive/Removal-Tool-in-GSC-sm.png 480w ,https://ankit.digital/media/posts/30/responsive/Removal-Tool-in-GSC-md.png 768w ,https://ankit.digital/media/posts/30/responsive/Removal-Tool-in-GSC-lg.png 1024w\"  alt=\"Removal Tool in GSC\" width=\"760\" height=\"224\"></figure></span></p>\n<figure class=\"post__image post__image--center\"><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://ankit.digital/media/posts/30/How-to-request-removal.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ankit.digital/media/posts/30/responsive/How-to-request-removal-xs.png 300w ,https://ankit.digital/media/posts/30/responsive/How-to-request-removal-sm.png 480w ,https://ankit.digital/media/posts/30/responsive/How-to-request-removal-md.png 768w ,https://ankit.digital/media/posts/30/responsive/How-to-request-removal-lg.png 1024w\"  alt=\"How to request removal\" width=\"763\" height=\"429\"></figure></span></p>\n<p><span style=\"color: #000000;\">Here are two options 1) Remove this URL Only- Means you can remove only URL that you want to remove but when you have to remove URLs from any particular prefix then you have to select the second option it will remove all URLs related with that prefix.</span></p>\n<p><span style=\"color: #000000;\">Moving to other tools:</span></p>\n<ul>\n<li><span style=\"color: #000000;\"><strong>Core web vital tool: </strong>From here you can see how your website or its pages performing on any particular device like you will see the speed-related information about how much speed performance of your web pages on mobile and desktop and if your website is slow then you will get an error report with the URL which are slow and below the recommended value. And you need to fix them for reaching more visitors from Search Results as Google is now working with Mobile-First indexing which means you need to make your website much responsive as possible.</span></li>\n<li><span style=\"color: #000000;\"><strong>Mobile Usability Report</strong>: Here in this report you can check whether your website is mobile-friendly or not if something issue related to mobile usability you can get here with the problematic URL or page.</span></li>\n<li><span style=\"color: #000000;\"><strong>Links report</strong>: Here in this report, you can check about your top pages, linking domains or pages, external links to your URL, etc.</span></li>\n<li><span style=\"color: #000000;\"><strong>Settings</strong>: From here you can check who has access to your website, you can add users as well, Ownership verification details, and also from here you can update Google about you have changed the address of your website when you are going to redirect your website to another domain.</span></li>\n<li><span style=\"color: #000000;\"><strong>Security and Manual Action Report</strong>: Here in this report you can see two reports one is security action report in which any security-related issues found in your website then you can see here, Google will automatically define that your website’s security compromised and in manual action report you can see is your website having any spammy content which violates Google’s policies then your website’s all issues will be shown here.</span></li>\n<li><span style=\"color: #000000;\"><strong style=\"font-family: var(--font-base); font-size: inherit;\">International Targeting</strong><span style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\"> Tool: Here with this tool, you can check and target any particular country. Here you can see two options for selecting or language option if you are selected any href lang on your website then you can see here that Google detected or not if not then you have to fix it. And also here you can find a second option to select any particular country where you want to show your website, not another country.</span></span></li>\n<li><span style=\"color: #000000;\"><strong>Crawl Stats report</strong>: Here you can see your website’s crawl stats report which means you can see Googlebot’s activity in the last 90 days.</span></li>\n</ul>\n<figure class=\"post__image post__image--center\"><span style=\"color: #000000;\"><img loading=\"lazy\"  src=\"https://ankit.digital/media/posts/30/crawl-stats-report-in-GSC.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://ankit.digital/media/posts/30/responsive/crawl-stats-report-in-GSC-xs.png 300w ,https://ankit.digital/media/posts/30/responsive/crawl-stats-report-in-GSC-sm.png 480w ,https://ankit.digital/media/posts/30/responsive/crawl-stats-report-in-GSC-md.png 768w ,https://ankit.digital/media/posts/30/responsive/crawl-stats-report-in-GSC-lg.png 1024w\"  alt=\"crawl stats report in GSC\" width=\"745\" height=\"439\"></figure></span></p>\n<ul>\n<li><span style=\"color: #000000;\"><strong>Messages</strong>: Here in this tool you can see all of your website’s issues or related search console messages and if Google detected any problem then you will get an email to admin email and also in this tool.</span></li>\n<li><span style=\"color: #000000;\"><strong>URL Parameter</strong>: Use this feature only if you're sure how parameters work. Incorrectly excluding URLs could result in many pages disappearing from search. Means you can add parameters of the URLs which you want to make it appear on Search Engine or if you have made it wrong then it can remove your website permanently disappear from search engine.</span></li>\n<li><span style=\"color: #000000;\"><strong>Ad experience report</strong>: Here in this tool how your ads are behaving on different devices like desktop and mobile.</span></li>\n<li><span style=\"color: #000000;\"><strong style=\"font-family: var(--font-base); font-size: inherit;\">Abusive Experience Report</strong><span style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">: From here you can check if anyone has a complaint about your site is abusive or any abusive experience they are recognized. See the below screenshot.</span></span></li>\n<li><span style=\"color: #000000;\"><strong>Abusive Notifications</strong>: This can help you to find any abusive related notification on your website with this tool.</span></li>\n<li><span style=\"color: #000000;\"><strong>Testing Tools</strong>: Here in this tab you can find various tools that can help your website to perform well with various rich results tester like structured data testing tool in which you can test that Google has checked your structured data correctly and shown on search results or not. In the same tab, you will see an email markup tester tool which means you can validate your structured data contents of an HTML email.</span></li>\n<li><span style=\"color: #000000;\"><strong style=\"font-family: var(--font-base); font-size: inherit;\">Other resources</strong><span style=\"font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);\">: Here in this tab, you can find various Google products related to your website and with the use of these tools you can easily optimize your website, track your visits by Google Analytics. Simply you can say that these tab contents are navigation to the best Google products which can help you to get more with your website.</span></span></li>\n</ul>\n<p><span style=\"color: #000000;\"><strong>Conclusion</strong></span></p>\n<p><span style=\"color: #000000;\">Google Search Console Platform can help you to analyse your website and how your websites performing on <strong>Google Search</strong>. Google Search Console can help you to optimize your website as per your visitors requirements and what they actually want you can use performance report to view what are the queries of visitors and what they want to know from your website and with this also you can optimize your CTR %.</span></p>\n<p><span style=\"color: #000000;\">And further you need any information related to Google Search Console and you have any issues on your website and any error you reported from Google Search Console then you can contact <a href=\"https://support.google.com/webmasters/community?hl=en\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" style=\"color: #000000;\">Google Webmasters Help Community</a></span></p>",
+            "image": "https://ankit.digital/media/posts/30/Guide-To-Google-Search-Console.png",
+            "author": {
+                "name": "Ankit Sharma"
+            },
+            "tags": [
+                   "Technical SEO",
+                   "Google Webmasters Guide",
+                   "Google Search Console",
+                   "Advanced SEO Techniques"
+            ],
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
+        },
+        {
             "id": "https://ankit.digital/shopify-reviews.html",
             "url": "https://ankit.digital/shopify-reviews.html",
             "title": "Shopify Review 2020 | Pros , Cons and Features",
@@ -26,8 +45,8 @@
                    "Shopify Features",
                    "Reviews"
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         },
         {
             "id": "https://ankit.digital/thrive-themes-review.html",
@@ -43,8 +62,8 @@
                    "Reviews",
                    "Review"
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         },
         {
             "id": "https://ankit.digital/sendy-review.html",
@@ -60,8 +79,8 @@
                    "Reviews",
                    "Review"
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         },
         {
             "id": "https://ankit.digital/free-tools-for-student-entrepreneurs.html",
@@ -75,8 +94,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         },
         {
             "id": "https://ankit.digital/best-mailchimp-alternatives.html",
@@ -91,8 +110,8 @@
             "tags": [
                    "Email Marketing"
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         },
         {
             "id": "https://ankit.digital/disclaimer.html",
@@ -105,8 +124,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         },
         {
             "id": "https://ankit.digital/privacy-policy.html",
@@ -119,8 +138,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         },
         {
             "id": "https://ankit.digital/digital-marketing-for-nutraceutical-products.html",
@@ -135,8 +154,8 @@
             "tags": [
                    "Strategy"
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         },
         {
             "id": "https://ankit.digital/long-tail-pro-review.html",
@@ -151,22 +170,8 @@
             "tags": [
                    "Reviews"
             ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
-        },
-        {
-            "id": "https://ankit.digital/about.html",
-            "url": "https://ankit.digital/about.html",
-            "title": "About",
-            "summary": "Hello, I am Ankit Sharma. I am an entrepreneur focused majorly on&hellip;",
-            "content_html": "<p>Hello,</p>\n<p>I am Ankit Sharma. I am an entrepreneur focused majorly on running businesses related to technology and marketing innovation. Ankit.Digital is just an attempt of mine where I try to put my thoughts about anything related to the domains I am working in. You can call it a blog that includes most of the things which I either solve for myself or for others. I usually record them in the blog posts so that my words can reach a larger audience and help them if they are also upto the same problem. </p>\n<p>I am a hardfan of digital marketing and love it at it's core. I keep on learning new things whenever I get the chance to. Being in the industry for more than a decade I also love to mentor people who either wish to make their career in Digital Marketing or are running their own startups and would want to apply digital marketing for the growth hack.</p>\n<p>I head 2 companies (Editsoft Digital and Uproi Digital) in the same domain where I have excellent minds working in together to do the required artwork. I call implementing digital marketing an art work, as I believe it is all about creative ideas to be executed differently at different situations. </p>\n<p>I am good at creating digital strategies for SME's to maximise ROI, Planning and execution of digital marketing campaigns, FB and Google Ads, Email Marketing Automation, SEO Audit, and implementing SEO(Offpage and Onpage) correctly. Please do not hesitate to connect me at hello[@]ankit[.]digital if you wish to ask for any help related to my domain areas. </p>\n<p> </p>\n<p>Thanks.</p>",
-            "author": {
-                "name": "Ankit Sharma"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-09-09T17:43:38+05:30",
-            "date_modified": "2020-09-09T17:43:38+05:30"
+            "date_published": "2020-09-13T13:06:14+05:30",
+            "date_modified": "2020-09-13T13:06:14+05:30"
         }
     ]
 }
